@@ -1,0 +1,1216 @@
+INFO 2019-09-12 09:19:08,545 basehttp 124 "GET / HTTP/1.1" 200 109893
+INFO 2019-09-12 09:19:08,869 basehttp 124 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2019-09-12 09:19:08,946 basehttp 124 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2019-09-12 09:19:08,948 basehttp 124 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2019-09-12 09:19:08,953 basehttp 124 "GET /static/css/main.css HTTP/1.1" 200 39968
+INFO 2019-09-12 09:19:09,025 basehttp 124 "GET /static/js/host.js HTTP/1.1" 200 80
+INFO 2019-09-12 09:19:09,034 basehttp 124 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO 2019-09-12 09:19:09,035 basehttp 124 "GET /static/images/logo.png HTTP/1.1" 200 7450
+INFO 2019-09-12 09:19:09,040 basehttp 124 "GET /static/js/slide.js HTTP/1.1" 200 1822
+INFO 2019-09-12 09:19:09,049 basehttp 124 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2019-09-12 09:19:09,154 basehttp 124 "GET /static/js/index.js HTTP/1.1" 200 1829
+INFO 2019-09-12 09:19:09,251 basehttp 124 "GET /static/images/adv01.jpg HTTP/1.1" 200 39831
+INFO 2019-09-12 09:19:09,395 basehttp 124 "GET /static/images/icons.png HTTP/1.1" 200 7740
+INFO 2019-09-12 09:19:10,824 basehttp 124 "GET /carts/simple/ HTTP/1.1" 200 17
+WARNING 2019-09-12 09:19:10,979 base 152 Not Found: /favicon.ico
+WARNING 2019-09-12 09:19:10,982 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 9971
+INFO 2019-09-12 09:22:49,794 basehttp 124 "GET / HTTP/1.1" 200 109893
+INFO 2019-09-12 09:22:49,864 basehttp 124 "GET /static/js/host.js HTTP/1.1" 200 80
+INFO 2019-09-12 09:22:49,870 basehttp 124 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2019-09-12 09:22:49,883 basehttp 124 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2019-09-12 09:22:49,893 basehttp 124 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO 2019-09-12 09:22:49,898 basehttp 124 "GET /static/css/main.css HTTP/1.1" 200 39968
+INFO 2019-09-12 09:22:49,924 basehttp 124 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2019-09-12 09:22:49,929 basehttp 124 "GET /static/js/slide.js HTTP/1.1" 200 1822
+INFO 2019-09-12 09:22:49,938 basehttp 124 "GET /static/images/logo.png HTTP/1.1" 200 7450
+INFO 2019-09-12 09:22:49,968 basehttp 124 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2019-09-12 09:22:50,021 basehttp 124 "GET /static/js/index.js HTTP/1.1" 200 1829
+INFO 2019-09-12 09:22:50,045 basehttp 124 "GET /static/images/adv01.jpg HTTP/1.1" 200 39831
+INFO 2019-09-12 09:22:50,195 basehttp 124 "GET /static/images/icons.png HTTP/1.1" 200 7740
+INFO 2019-09-12 09:22:50,806 basehttp 124 "GET /carts/simple/ HTTP/1.1" 200 17
+WARNING 2019-09-12 09:22:50,929 base 152 Not Found: /favicon.ico
+WARNING 2019-09-12 09:22:50,930 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 9977
+INFO 2019-09-12 09:22:53,819 basehttp 124 "GET / HTTP/1.1" 200 109893
+INFO 2019-09-12 09:22:54,484 basehttp 124 "GET /carts/simple/ HTTP/1.1" 200 17
+INFO 2019-09-12 09:24:57,701 basehttp 124 "GET / HTTP/1.1" 200 109893
+INFO 2019-09-12 09:24:57,767 basehttp 124 "GET /static/css/reset.css HTTP/1.1" 304 0
+INFO 2019-09-12 09:24:57,771 basehttp 124 "GET /static/css/main.css HTTP/1.1" 304 0
+INFO 2019-09-12 09:24:57,787 basehttp 124 "GET /static/js/host.js HTTP/1.1" 304 0
+INFO 2019-09-12 09:24:57,797 basehttp 124 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2019-09-12 09:24:57,810 basehttp 124 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2019-09-12 09:24:57,812 basehttp 124 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 304 0
+INFO 2019-09-12 09:24:57,814 basehttp 124 "GET /static/images/logo.png HTTP/1.1" 304 0
+INFO 2019-09-12 09:24:57,815 basehttp 124 "GET /static/js/slide.js HTTP/1.1" 304 0
+INFO 2019-09-12 09:24:57,836 basehttp 124 "GET /static/js/common.js HTTP/1.1" 304 0
+INFO 2019-09-12 09:24:57,853 basehttp 124 "GET /static/js/index.js HTTP/1.1" 304 0
+INFO 2019-09-12 09:24:57,889 basehttp 124 "GET /static/images/adv01.jpg HTTP/1.1" 304 0
+INFO 2019-09-12 09:24:57,988 basehttp 124 "GET /static/images/icons.png HTTP/1.1" 304 0
+INFO 2019-09-12 09:24:58,457 basehttp 124 "GET /carts/simple/ HTTP/1.1" 200 17
+INFO 2019-09-12 09:36:59,786 basehttp 124 "GET / HTTP/1.1" 200 109893
+INFO 2019-09-12 09:36:59,905 basehttp 124 "GET /static/css/reset.css HTTP/1.1" 304 0
+INFO 2019-09-12 09:36:59,913 basehttp 124 "GET /static/css/main.css HTTP/1.1" 304 0
+INFO 2019-09-12 09:36:59,919 basehttp 124 "GET /static/js/host.js HTTP/1.1" 304 0
+INFO 2019-09-12 09:36:59,937 basehttp 124 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2019-09-12 09:36:59,941 basehttp 124 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2019-09-12 09:36:59,974 basehttp 124 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 304 0
+INFO 2019-09-12 09:36:59,982 basehttp 124 "GET /static/js/slide.js HTTP/1.1" 304 0
+INFO 2019-09-12 09:36:59,986 basehttp 124 "GET /static/images/logo.png HTTP/1.1" 304 0
+INFO 2019-09-12 09:37:00,032 basehttp 124 "GET /static/js/common.js HTTP/1.1" 304 0
+INFO 2019-09-12 09:37:00,033 basehttp 124 "GET /static/js/index.js HTTP/1.1" 304 0
+INFO 2019-09-12 09:37:00,150 basehttp 124 "GET /static/images/adv01.jpg HTTP/1.1" 304 0
+INFO 2019-09-12 09:37:00,262 basehttp 124 "GET /static/images/icons.png HTTP/1.1" 304 0
+INFO 2019-09-12 09:37:00,945 basehttp 124 "GET /carts/simple/ HTTP/1.1" 200 17
+WARNING 2019-09-12 09:37:01,066 base 152 Not Found: /favicon.ico
+WARNING 2019-09-12 09:37:01,068 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 9977
+INFO 2019-09-12 09:37:02,485 basehttp 124 "OPTIONS /meiduo_admin/authorizations/ HTTP/1.1" 200 0
+WARNING 2019-09-12 09:37:02,635 basehttp 124 "POST /meiduo_admin/authorizations/ HTTP/1.1" 400 68
+WARNING 2019-09-12 09:37:12,654 basehttp 124 "POST /meiduo_admin/authorizations/ HTTP/1.1" 400 68
+WARNING 2019-09-12 09:38:08,525 basehttp 124 "POST /meiduo_admin/authorizations/ HTTP/1.1" 400 68
+INFO 2019-09-12 09:41:11,295 basehttp 124 "POST /meiduo_admin/authorizations/ HTTP/1.1" 200 203
+INFO 2019-09-12 09:41:11,377 basehttp 124 "OPTIONS /meiduo_admin/statistical/total_count/ HTTP/1.1" 200 0
+INFO 2019-09-12 09:41:11,394 basehttp 124 "OPTIONS /meiduo_admin/statistical/day_increment/ HTTP/1.1" 200 0
+INFO 2019-09-12 09:41:11,398 basehttp 124 "OPTIONS /meiduo_admin/statistical/day_active/ HTTP/1.1" 200 0
+INFO 2019-09-12 09:41:11,402 basehttp 124 "OPTIONS /meiduo_admin/statistical/day_orders/ HTTP/1.1" 200 0
+INFO 2019-09-12 09:41:11,404 basehttp 124 "OPTIONS /meiduo_admin/statistical/month_increment/ HTTP/1.1" 200 0
+INFO 2019-09-12 09:41:11,407 basehttp 124 "OPTIONS /meiduo_admin/statistical/day_active/ HTTP/1.1" 200 0
+INFO 2019-09-12 09:41:11,408 basehttp 124 "OPTIONS /meiduo_admin/statistical/day_orders/ HTTP/1.1" 200 0
+INFO 2019-09-12 09:41:11,415 basehttp 124 "OPTIONS /meiduo_admin/statistical/goods_day_views/ HTTP/1.1" 200 0
+INFO 2019-09-12 09:41:11,493 basehttp 124 "GET /meiduo_admin/statistical/total_count/ HTTP/1.1" 200 11
+INFO 2019-09-12 09:41:11,495 basehttp 124 "GET /meiduo_admin/statistical/day_active/ HTTP/1.1" 200 11
+INFO 2019-09-12 09:41:11,498 basehttp 124 "GET /meiduo_admin/statistical/day_increment/ HTTP/1.1" 200 11
+INFO 2019-09-12 09:41:11,560 basehttp 124 "GET /meiduo_admin/statistical/day_orders/ HTTP/1.1" 200 13
+INFO 2019-09-12 09:41:11,573 basehttp 124 "GET /meiduo_admin/statistical/day_active/ HTTP/1.1" 200 11
+INFO 2019-09-12 09:41:11,595 basehttp 124 "GET /meiduo_admin/statistical/goods_day_views/ HTTP/1.1" 200 2
+INFO 2019-09-12 09:41:11,619 basehttp 124 "GET /meiduo_admin/statistical/day_orders/ HTTP/1.1" 200 13
+INFO 2019-09-12 09:41:11,637 basehttp 124 "GET /meiduo_admin/statistical/month_increment/ HTTP/1.1" 200 961
+INFO 2019-09-12 09:41:16,021 basehttp 124 "OPTIONS /meiduo_admin/users/?page=1&pagesize=10&keyword= HTTP/1.1" 200 0
+INFO 2019-09-12 09:41:16,088 basehttp 124 "GET /meiduo_admin/users/?page=1&pagesize=10&keyword= HTTP/1.1" 200 411
+INFO 2019-09-12 09:41:17,790 basehttp 124 "OPTIONS /meiduo_admin/goods/?page=1&pagesize=10 HTTP/1.1" 200 0
+INFO 2019-09-12 09:41:18,185 basehttp 124 "GET /meiduo_admin/goods/?page=1&pagesize=10 HTTP/1.1" 200 11072
+INFO 2019-09-12 09:41:18,885 basehttp 124 "OPTIONS /meiduo_admin/skus/categories/ HTTP/1.1" 200 0
+INFO 2019-09-12 09:41:18,900 basehttp 124 "OPTIONS /meiduo_admin/goods/simple/ HTTP/1.1" 200 0
+INFO 2019-09-12 09:41:18,902 basehttp 124 "OPTIONS /meiduo_admin/goods/simple/ HTTP/1.1" 200 0
+INFO 2019-09-12 09:41:18,905 basehttp 124 "OPTIONS /meiduo_admin/skus/?page=1&pagesize=10&keyword= HTTP/1.1" 200 0
+WARNING 2019-09-12 09:41:18,915 basehttp 124 "GET /meiduo_admin/skus/categories/ HTTP/1.1" 401 35
+INFO 2019-09-12 09:41:18,922 basehttp 124 "OPTIONS /meiduo_admin/skus/categories/ HTTP/1.1" 200 0
+WARNING 2019-09-12 09:41:18,932 basehttp 124 "GET /meiduo_admin/goods/simple/ HTTP/1.1" 401 35
+WARNING 2019-09-12 09:41:18,940 basehttp 124 "GET /meiduo_admin/skus/categories/ HTTP/1.1" 401 35
+WARNING 2019-09-12 09:41:18,944 basehttp 124 "GET /meiduo_admin/goods/simple/ HTTP/1.1" 401 35
+INFO 2019-09-12 09:41:19,121 basehttp 124 "GET /meiduo_admin/skus/?page=1&pagesize=10&keyword= HTTP/1.1" 200 6557
+INFO 2019-09-12 09:41:20,208 basehttp 124 "OPTIONS /meiduo_admin/goods/specs/?page=1&pagesize=10 HTTP/1.1" 200 0
+WARNING 2019-09-12 09:41:20,213 basehttp 124 "GET /meiduo_admin/goods/simple/ HTTP/1.1" 401 35
+WARNING 2019-09-12 09:41:20,225 basehttp 124 "GET /meiduo_admin/goods/simple/ HTTP/1.1" 401 35
+INFO 2019-09-12 09:41:20,351 basehttp 124 "GET /meiduo_admin/goods/specs/?page=1&pagesize=10 HTTP/1.1" 200 1116
+INFO 2019-09-12 09:41:21,035 basehttp 124 "OPTIONS /meiduo_admin/goods/specs/simple/ HTTP/1.1" 200 0
+INFO 2019-09-12 09:41:21,039 basehttp 124 "OPTIONS /meiduo_admin/goods/specs/simple/ HTTP/1.1" 200 0
+INFO 2019-09-12 09:41:21,041 basehttp 124 "OPTIONS /meiduo_admin/specs/options/?page=1&pagesize=10 HTTP/1.1" 200 0
+WARNING 2019-09-12 09:41:21,058 basehttp 124 "GET /meiduo_admin/goods/specs/simple/ HTTP/1.1" 401 35
+WARNING 2019-09-12 09:41:21,070 basehttp 124 "GET /meiduo_admin/goods/specs/simple/ HTTP/1.1" 401 35
+INFO 2019-09-12 09:41:21,229 basehttp 124 "GET /meiduo_admin/specs/options/?page=1&pagesize=10 HTTP/1.1" 200 1786
+INFO 2019-09-12 09:41:21,656 basehttp 124 "OPTIONS /meiduo_admin/goods/channel_types/ HTTP/1.1" 200 0
+INFO 2019-09-12 09:41:21,661 basehttp 124 "OPTIONS /meiduo_admin/goods/categories/ HTTP/1.1" 200 0
+INFO 2019-09-12 09:41:21,679 basehttp 124 "OPTIONS /meiduo_admin/goods/channel_types/ HTTP/1.1" 200 0
+INFO 2019-09-12 09:41:21,682 basehttp 124 "OPTIONS /meiduo_admin/goods/categories/ HTTP/1.1" 200 0
+INFO 2019-09-12 09:41:21,685 basehttp 124 "OPTIONS /meiduo_admin/goods/channels/?page=1&pagesize=10 HTTP/1.1" 200 0
+WARNING 2019-09-12 09:41:21,691 basehttp 124 "GET /meiduo_admin/goods/channel_types/ HTTP/1.1" 401 35
+WARNING 2019-09-12 09:41:21,699 basehttp 124 "GET /meiduo_admin/goods/categories/ HTTP/1.1" 401 35
+WARNING 2019-09-12 09:41:21,707 basehttp 124 "GET /meiduo_admin/goods/channel_types/ HTTP/1.1" 401 35
+WARNING 2019-09-12 09:41:21,717 basehttp 124 "GET /meiduo_admin/goods/categories/ HTTP/1.1" 401 35
+INFO 2019-09-12 09:41:21,726 basehttp 124 "GET /meiduo_admin/goods/channels/?page=1&pagesize=10 HTTP/1.1" 200 1923
+WARNING 2019-09-12 09:41:22,322 basehttp 124 "GET /meiduo_admin/goods/channel_types/ HTTP/1.1" 401 35
+WARNING 2019-09-12 09:41:22,337 basehttp 124 "GET /meiduo_admin/goods/categories/ HTTP/1.1" 401 35
+INFO 2019-09-12 09:41:22,346 basehttp 124 "OPTIONS /meiduo_admin/goods/brands/?page=1&pagesize=10 HTTP/1.1" 200 0
+INFO 2019-09-12 09:41:22,360 basehttp 124 "GET /meiduo_admin/goods/brands/?page=1&pagesize=10 HTTP/1.1" 200 483
+INFO 2019-09-12 09:41:24,416 basehttp 124 "OPTIONS /meiduo_admin/skus/simple/ HTTP/1.1" 200 0
+INFO 2019-09-12 09:41:24,427 basehttp 124 "OPTIONS /meiduo_admin/skus/simple/ HTTP/1.1" 200 0
+INFO 2019-09-12 09:41:24,438 basehttp 124 "OPTIONS /meiduo_admin/skus/images/?page=1&pagesize=10 HTTP/1.1" 200 0
+WARNING 2019-09-12 09:41:24,448 basehttp 124 "GET /meiduo_admin/skus/simple/ HTTP/1.1" 401 35
+WARNING 2019-09-12 09:41:24,453 basehttp 124 "GET /meiduo_admin/skus/simple/ HTTP/1.1" 401 35
+INFO 2019-09-12 09:41:24,555 basehttp 124 "GET /meiduo_admin/skus/images/?page=1&pagesize=10 HTTP/1.1" 200 1984
+INFO 2019-09-12 09:41:32,285 basehttp 124 "OPTIONS /meiduo_admin/orders/?page=1&pagesize=10&keyword= HTTP/1.1" 200 0
+WARNING 2019-09-12 09:41:32,312 base 152 Not Found: /meiduo_admin/orders/
+WARNING 2019-09-12 09:41:32,313 basehttp 124 "GET /meiduo_admin/orders/?page=1&pagesize=10&keyword= HTTP/1.1" 404 22338
+INFO 2019-09-12 09:41:37,465 basehttp 124 "OPTIONS /meiduo_admin/permission/content_types/ HTTP/1.1" 200 0
+INFO 2019-09-12 09:41:37,467 basehttp 124 "OPTIONS /meiduo_admin/permission/content_types/ HTTP/1.1" 200 0
+INFO 2019-09-12 09:41:37,469 basehttp 124 "OPTIONS /meiduo_admin/permission/perms/?page=1&pagesize=10 HTTP/1.1" 200 0
+WARNING 2019-09-12 09:41:37,504 base 152 Not Found: /meiduo_admin/permission/content_types/
+WARNING 2019-09-12 09:41:37,507 base 152 Not Found: /meiduo_admin/permission/perms/
+WARNING 2019-09-12 09:41:37,509 basehttp 124 "GET /meiduo_admin/permission/perms/?page=1&pagesize=10 HTTP/1.1" 404 22355
+WARNING 2019-09-12 09:41:37,526 basehttp 124 "GET /meiduo_admin/permission/content_types/ HTTP/1.1" 404 22356
+WARNING 2019-09-12 09:41:37,535 base 152 Not Found: /meiduo_admin/permission/content_types/
+WARNING 2019-09-12 09:41:37,540 basehttp 124 "GET /meiduo_admin/permission/content_types/ HTTP/1.1" 404 22356
+INFO 2019-09-12 09:41:38,119 basehttp 124 "OPTIONS /meiduo_admin/permission/simple/ HTTP/1.1" 200 0
+INFO 2019-09-12 09:41:38,123 basehttp 124 "OPTIONS /meiduo_admin/permission/simple/ HTTP/1.1" 200 0
+INFO 2019-09-12 09:41:38,127 basehttp 124 "OPTIONS /meiduo_admin/permission/groups/?page=1&pagesize=10 HTTP/1.1" 200 0
+WARNING 2019-09-12 09:41:38,152 base 152 Not Found: /meiduo_admin/permission/simple/
+WARNING 2019-09-12 09:41:38,158 base 152 Not Found: /meiduo_admin/permission/groups/
+WARNING 2019-09-12 09:41:38,159 basehttp 124 "GET /meiduo_admin/permission/groups/?page=1&pagesize=10 HTTP/1.1" 404 22358
+WARNING 2019-09-12 09:41:38,162 basehttp 124 "GET /meiduo_admin/permission/simple/ HTTP/1.1" 404 22335
+WARNING 2019-09-12 09:41:38,175 base 152 Not Found: /meiduo_admin/permission/simple/
+WARNING 2019-09-12 09:41:38,176 basehttp 124 "GET /meiduo_admin/permission/simple/ HTTP/1.1" 404 22335
+WARNING 2019-09-12 09:41:38,806 base 152 Not Found: /meiduo_admin/permission/simple/
+WARNING 2019-09-12 09:41:38,811 basehttp 124 "GET /meiduo_admin/permission/simple/ HTTP/1.1" 404 22335
+INFO 2019-09-12 09:41:38,813 basehttp 124 "OPTIONS /meiduo_admin/permission/groups/simple/ HTTP/1.1" 200 0
+INFO 2019-09-12 09:41:38,821 basehttp 124 "OPTIONS /meiduo_admin/permission/admins/?page=1&pagesize=10 HTTP/1.1" 200 0
+INFO 2019-09-12 09:41:38,821 basehttp 124 "OPTIONS /meiduo_admin/permission/groups/simple/ HTTP/1.1" 200 0
+WARNING 2019-09-12 09:41:38,848 base 152 Not Found: /meiduo_admin/permission/simple/
+WARNING 2019-09-12 09:41:38,858 base 152 Not Found: /meiduo_admin/permission/admins/
+WARNING 2019-09-12 09:41:38,860 basehttp 124 "GET /meiduo_admin/permission/admins/?page=1&pagesize=10 HTTP/1.1" 404 22358
+WARNING 2019-09-12 09:41:38,868 base 152 Not Found: /meiduo_admin/permission/groups/simple/
+WARNING 2019-09-12 09:41:38,869 basehttp 124 "GET /meiduo_admin/permission/simple/ HTTP/1.1" 404 22335
+WARNING 2019-09-12 09:41:38,872 basehttp 124 "GET /meiduo_admin/permission/groups/simple/ HTTP/1.1" 404 22356
+WARNING 2019-09-12 09:41:38,885 base 152 Not Found: /meiduo_admin/permission/groups/simple/
+WARNING 2019-09-12 09:41:38,886 basehttp 124 "GET /meiduo_admin/permission/groups/simple/ HTTP/1.1" 404 22356
+WARNING 2019-09-12 09:41:39,712 base 152 Not Found: /meiduo_admin/permission/groups/
+WARNING 2019-09-12 09:41:39,714 base 152 Not Found: /meiduo_admin/permission/simple/
+WARNING 2019-09-12 09:41:39,716 basehttp 124 "GET /meiduo_admin/permission/groups/?page=1&pagesize=10 HTTP/1.1" 404 22358
+WARNING 2019-09-12 09:41:39,719 basehttp 124 "GET /meiduo_admin/permission/simple/ HTTP/1.1" 404 22335
+WARNING 2019-09-12 09:41:39,732 base 152 Not Found: /meiduo_admin/permission/simple/
+WARNING 2019-09-12 09:41:39,739 basehttp 124 "GET /meiduo_admin/permission/simple/ HTTP/1.1" 404 22335
+WARNING 2019-09-12 09:41:40,073 base 152 Not Found: /meiduo_admin/permission/simple/
+WARNING 2019-09-12 09:41:40,093 base 152 Not Found: /meiduo_admin/permission/admins/
+WARNING 2019-09-12 09:41:40,094 basehttp 124 "GET /meiduo_admin/permission/simple/ HTTP/1.1" 404 22335
+WARNING 2019-09-12 09:41:40,094 basehttp 124 "GET /meiduo_admin/permission/admins/?page=1&pagesize=10 HTTP/1.1" 404 22358
+WARNING 2019-09-12 09:41:40,115 base 152 Not Found: /meiduo_admin/permission/groups/simple/
+WARNING 2019-09-12 09:41:40,133 base 152 Not Found: /meiduo_admin/permission/simple/
+WARNING 2019-09-12 09:41:40,136 basehttp 124 "GET /meiduo_admin/permission/groups/simple/ HTTP/1.1" 404 22356
+WARNING 2019-09-12 09:41:40,138 basehttp 124 "GET /meiduo_admin/permission/simple/ HTTP/1.1" 404 22335
+WARNING 2019-09-12 09:41:40,155 base 152 Not Found: /meiduo_admin/permission/groups/simple/
+WARNING 2019-09-12 09:41:40,156 basehttp 124 "GET /meiduo_admin/permission/groups/simple/ HTTP/1.1" 404 22356
+WARNING 2019-09-12 09:41:40,489 base 152 Not Found: /meiduo_admin/permission/content_types/
+WARNING 2019-09-12 09:41:40,495 basehttp 124 "GET /meiduo_admin/permission/content_types/ HTTP/1.1" 404 22356
+WARNING 2019-09-12 09:41:40,494 base 152 Not Found: /meiduo_admin/permission/perms/
+WARNING 2019-09-12 09:41:40,512 base 152 Not Found: /meiduo_admin/permission/content_types/
+WARNING 2019-09-12 09:41:40,513 basehttp 124 "GET /meiduo_admin/permission/content_types/ HTTP/1.1" 404 22356
+WARNING 2019-09-12 09:41:40,521 basehttp 124 "GET /meiduo_admin/permission/perms/?page=1&pagesize=10 HTTP/1.1" 404 22355
+WARNING 2019-09-12 09:41:40,836 base 152 Not Found: /meiduo_admin/permission/simple/
+WARNING 2019-09-12 09:41:40,837 basehttp 124 "GET /meiduo_admin/permission/simple/ HTTP/1.1" 404 22335
+WARNING 2019-09-12 09:41:40,873 base 152 Not Found: /meiduo_admin/permission/admins/
+WARNING 2019-09-12 09:41:40,882 base 152 Not Found: /meiduo_admin/permission/groups/simple/
+WARNING 2019-09-12 09:41:40,887 basehttp 124 "GET /meiduo_admin/permission/admins/?page=1&pagesize=10 HTTP/1.1" 404 22358
+WARNING 2019-09-12 09:41:40,882 base 152 Not Found: /meiduo_admin/permission/simple/
+WARNING 2019-09-12 09:41:40,889 basehttp 124 "GET /meiduo_admin/permission/simple/ HTTP/1.1" 404 22335
+WARNING 2019-09-12 09:41:40,889 basehttp 124 "GET /meiduo_admin/permission/groups/simple/ HTTP/1.1" 404 22356
+WARNING 2019-09-12 09:41:40,915 base 152 Not Found: /meiduo_admin/permission/groups/simple/
+WARNING 2019-09-12 09:41:40,918 basehttp 124 "GET /meiduo_admin/permission/groups/simple/ HTTP/1.1" 404 22356
+WARNING 2019-09-12 09:41:41,199 base 152 Not Found: /meiduo_admin/permission/simple/
+WARNING 2019-09-12 09:41:41,201 basehttp 124 "GET /meiduo_admin/permission/simple/ HTTP/1.1" 404 22335
+WARNING 2019-09-12 09:41:41,217 base 152 Not Found: /meiduo_admin/permission/groups/
+WARNING 2019-09-12 09:41:41,218 basehttp 124 "GET /meiduo_admin/permission/groups/?page=1&pagesize=10 HTTP/1.1" 404 22358
+WARNING 2019-09-12 09:41:41,230 base 152 Not Found: /meiduo_admin/permission/simple/
+WARNING 2019-09-12 09:41:41,231 basehttp 124 "GET /meiduo_admin/permission/simple/ HTTP/1.1" 404 22335
+WARNING 2019-09-12 09:41:42,619 base 152 Not Found: /meiduo_admin/orders/
+WARNING 2019-09-12 09:41:42,621 basehttp 124 "GET /meiduo_admin/orders/?page=1&pagesize=10&keyword= HTTP/1.1" 404 22338
+WARNING 2019-09-12 09:41:44,790 base 152 Not Found: /meiduo_admin/permission/perms/
+WARNING 2019-09-12 09:41:44,791 base 152 Not Found: /meiduo_admin/permission/content_types/
+WARNING 2019-09-12 09:41:44,792 basehttp 124 "GET /meiduo_admin/permission/content_types/ HTTP/1.1" 404 22356
+WARNING 2019-09-12 09:41:44,793 basehttp 124 "GET /meiduo_admin/permission/perms/?page=1&pagesize=10 HTTP/1.1" 404 22355
+WARNING 2019-09-12 09:41:44,807 base 152 Not Found: /meiduo_admin/permission/content_types/
+WARNING 2019-09-12 09:41:44,809 basehttp 124 "GET /meiduo_admin/permission/content_types/ HTTP/1.1" 404 22356
+WARNING 2019-09-12 09:41:46,113 base 152 Not Found: /meiduo_admin/permission/simple/
+WARNING 2019-09-12 09:41:46,122 base 152 Not Found: /meiduo_admin/permission/groups/simple/
+WARNING 2019-09-12 09:41:46,136 basehttp 124 "GET /meiduo_admin/permission/simple/ HTTP/1.1" 404 22335
+WARNING 2019-09-12 09:41:46,138 basehttp 124 "GET /meiduo_admin/permission/groups/simple/ HTTP/1.1" 404 22356
+WARNING 2019-09-12 09:41:46,141 base 152 Not Found: /meiduo_admin/permission/admins/
+WARNING 2019-09-12 09:41:46,144 basehttp 124 "GET /meiduo_admin/permission/admins/?page=1&pagesize=10 HTTP/1.1" 404 22358
+WARNING 2019-09-12 09:41:46,158 base 152 Not Found: /meiduo_admin/permission/simple/
+WARNING 2019-09-12 09:41:46,172 base 152 Not Found: /meiduo_admin/permission/groups/simple/
+WARNING 2019-09-12 09:41:46,177 basehttp 124 "GET /meiduo_admin/permission/groups/simple/ HTTP/1.1" 404 22356
+WARNING 2019-09-12 09:41:46,177 basehttp 124 "GET /meiduo_admin/permission/simple/ HTTP/1.1" 404 22335
+INFO 2019-09-12 15:34:27,938 basehttp 124 "OPTIONS /meiduo_admin/authorizations/ HTTP/1.1" 200 0
+INFO 2019-09-12 15:34:28,287 basehttp 124 "POST /meiduo_admin/authorizations/ HTTP/1.1" 200 203
+INFO 2019-09-12 15:34:28,407 basehttp 124 "OPTIONS /meiduo_admin/statistical/day_increment/ HTTP/1.1" 200 0
+INFO 2019-09-12 15:34:28,409 basehttp 124 "OPTIONS /meiduo_admin/statistical/day_active/ HTTP/1.1" 200 0
+INFO 2019-09-12 15:34:28,425 basehttp 124 "OPTIONS /meiduo_admin/statistical/day_orders/ HTTP/1.1" 200 0
+INFO 2019-09-12 15:34:28,427 basehttp 124 "OPTIONS /meiduo_admin/statistical/total_count/ HTTP/1.1" 200 0
+INFO 2019-09-12 15:34:28,433 basehttp 124 "OPTIONS /meiduo_admin/statistical/day_active/ HTTP/1.1" 200 0
+INFO 2019-09-12 15:34:28,436 basehttp 124 "OPTIONS /meiduo_admin/statistical/day_orders/ HTTP/1.1" 200 0
+INFO 2019-09-12 15:34:28,449 basehttp 124 "OPTIONS /meiduo_admin/statistical/goods_day_views/ HTTP/1.1" 200 0
+INFO 2019-09-12 15:34:28,450 basehttp 124 "OPTIONS /meiduo_admin/statistical/month_increment/ HTTP/1.1" 200 0
+INFO 2019-09-12 15:34:28,510 basehttp 124 "GET /meiduo_admin/statistical/total_count/ HTTP/1.1" 200 11
+INFO 2019-09-12 15:34:28,525 basehttp 124 "GET /meiduo_admin/statistical/day_increment/ HTTP/1.1" 200 11
+INFO 2019-09-12 15:34:28,535 basehttp 124 "GET /meiduo_admin/statistical/day_active/ HTTP/1.1" 200 11
+INFO 2019-09-12 15:34:28,546 basehttp 124 "GET /meiduo_admin/statistical/day_orders/ HTTP/1.1" 200 13
+INFO 2019-09-12 15:34:28,590 basehttp 124 "GET /meiduo_admin/statistical/goods_day_views/ HTTP/1.1" 200 2
+INFO 2019-09-12 15:34:28,603 basehttp 124 "GET /meiduo_admin/statistical/day_active/ HTTP/1.1" 200 11
+INFO 2019-09-12 15:34:28,619 basehttp 124 "GET /meiduo_admin/statistical/day_orders/ HTTP/1.1" 200 13
+INFO 2019-09-12 15:34:28,640 basehttp 124 "GET /meiduo_admin/statistical/month_increment/ HTTP/1.1" 200 961
+INFO 2019-09-12 15:34:31,182 basehttp 124 "OPTIONS /meiduo_admin/skus/simple/ HTTP/1.1" 200 0
+INFO 2019-09-12 15:34:31,185 basehttp 124 "OPTIONS /meiduo_admin/skus/simple/ HTTP/1.1" 200 0
+INFO 2019-09-12 15:34:31,188 basehttp 124 "OPTIONS /meiduo_admin/skus/images/?page=1&pagesize=10 HTTP/1.1" 200 0
+INFO 2019-09-12 15:34:31,341 basehttp 124 "GET /meiduo_admin/skus/simple/ HTTP/1.1" 200 1466
+INFO 2019-09-12 15:34:31,371 basehttp 124 "GET /meiduo_admin/skus/simple/ HTTP/1.1" 200 1466
+INFO 2019-09-12 15:34:31,377 basehttp 124 "GET /meiduo_admin/skus/images/?page=1&pagesize=10 HTTP/1.1" 200 1984
+INFO 2019-09-12 15:34:50,914 basehttp 124 "OPTIONS /meiduo_admin/orders/?page=1&pagesize=10&keyword= HTTP/1.1" 200 0
+WARNING 2019-09-12 15:34:50,936 base 152 Not Found: /meiduo_admin/orders/
+WARNING 2019-09-12 15:34:50,938 basehttp 124 "GET /meiduo_admin/orders/?page=1&pagesize=10&keyword= HTTP/1.1" 404 22338
+INFO 2019-09-12 15:35:19,279 basehttp 124 "GET / HTTP/1.1" 200 109893
+INFO 2019-09-12 15:35:19,309 basehttp 124 "GET /static/css/reset.css HTTP/1.1" 304 0
+INFO 2019-09-12 15:35:19,320 basehttp 124 "GET /static/css/main.css HTTP/1.1" 304 0
+INFO 2019-09-12 15:35:19,330 basehttp 124 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2019-09-12 15:35:19,333 basehttp 124 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 304 0
+INFO 2019-09-12 15:35:19,358 basehttp 124 "GET /static/js/host.js HTTP/1.1" 304 0
+INFO 2019-09-12 15:35:19,363 basehttp 124 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2019-09-12 15:35:19,420 basehttp 124 "GET /static/images/logo.png HTTP/1.1" 304 0
+INFO 2019-09-12 15:35:19,475 basehttp 124 "GET /static/js/slide.js HTTP/1.1" 304 0
+INFO 2019-09-12 15:35:19,480 basehttp 124 "GET /static/js/common.js HTTP/1.1" 304 0
+INFO 2019-09-12 15:35:19,487 basehttp 124 "GET /static/js/index.js HTTP/1.1" 304 0
+INFO 2019-09-12 15:35:19,550 basehttp 124 "GET /static/images/adv01.jpg HTTP/1.1" 304 0
+INFO 2019-09-12 15:35:19,782 basehttp 124 "GET /carts/simple/ HTTP/1.1" 200 17
+INFO 2019-09-12 15:35:19,923 basehttp 124 "GET /static/images/icons.png HTTP/1.1" 304 0
+WARNING 2019-09-12 15:35:20,485 base 152 Not Found: /favicon.ico
+WARNING 2019-09-12 15:35:20,486 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 9977
+INFO 2019-09-12 15:37:24,367 basehttp 124 "GET /meiduo_admin/skus/simple/ HTTP/1.1" 200 1466
+INFO 2019-09-12 15:37:24,391 basehttp 124 "GET /meiduo_admin/skus/images/?page=1&pagesize=10 HTTP/1.1" 200 1984
+INFO 2019-09-12 15:37:24,403 basehttp 124 "GET /meiduo_admin/skus/simple/ HTTP/1.1" 200 1466
+INFO 2019-09-12 15:37:29,563 basehttp 124 "GET /meiduo_admin/skus/simple/ HTTP/1.1" 200 1466
+INFO 2019-09-12 15:37:29,609 basehttp 124 "GET /meiduo_admin/skus/simple/ HTTP/1.1" 200 1466
+INFO 2019-09-12 15:37:29,641 basehttp 124 "GET /meiduo_admin/skus/images/?page=1&pagesize=10 HTTP/1.1" 200 1984
+INFO 2019-09-12 15:37:46,411 basehttp 124 "GET /meiduo_admin/skus/simple/ HTTP/1.1" 200 1466
+INFO 2019-09-12 15:37:46,437 basehttp 124 "GET /meiduo_admin/skus/images/?page=1&pagesize=10 HTTP/1.1" 200 1984
+INFO 2019-09-12 15:37:46,454 basehttp 124 "GET /meiduo_admin/skus/simple/ HTTP/1.1" 200 1466
+INFO 2019-09-12 15:38:12,044 basehttp 124 "GET /meiduo_admin/skus/simple/ HTTP/1.1" 200 1466
+INFO 2019-09-12 15:38:12,081 basehttp 124 "GET /meiduo_admin/skus/images/?page=1&pagesize=10 HTTP/1.1" 200 1984
+INFO 2019-09-12 15:38:12,104 basehttp 124 "GET /meiduo_admin/skus/simple/ HTTP/1.1" 200 1466
+INFO 2019-09-12 15:38:15,838 basehttp 124 "OPTIONS /meiduo_admin/skus/images/?page=4&pagesize=10 HTTP/1.1" 200 0
+INFO 2019-09-12 15:38:15,853 basehttp 124 "GET /meiduo_admin/skus/images/?page=4&pagesize=10 HTTP/1.1" 200 2000
+INFO 2019-09-12 15:38:30,840 basehttp 124 "GET /list/115/1/ HTTP/1.1" 200 93665
+INFO 2019-09-12 15:38:30,925 basehttp 124 "GET /static/css/jquery.pagination.css HTTP/1.1" 200 523
+INFO 2019-09-12 15:38:30,929 basehttp 124 "GET /static/images/goods/goods001.jpg HTTP/1.1" 200 5391
+INFO 2019-09-12 15:38:30,931 basehttp 124 "GET /static/images/goods/goods002.jpg HTTP/1.1" 200 5377
+INFO 2019-09-12 15:38:31,004 basehttp 124 "GET /static/js/list.js HTTP/1.1" 200 2089
+INFO 2019-09-12 15:38:31,020 basehttp 124 "GET /static/images/shop_cart.png HTTP/1.1" 200 1317
+INFO 2019-09-12 15:38:31,028 basehttp 124 "GET /static/js/jquery.pagination.min.js HTTP/1.1" 200 2935
+INFO 2019-09-12 15:38:31,195 basehttp 124 "GET /carts/simple/ HTTP/1.1" 200 17
+INFO 2019-09-12 15:38:31,232 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 572
+INFO 2019-09-12 15:38:35,163 basehttp 124 "GET /list/115/1/ HTTP/1.1" 200 93665
+INFO 2019-09-12 15:38:35,196 basehttp 124 "GET /static/css/jquery.pagination.css HTTP/1.1" 200 523
+INFO 2019-09-12 15:38:35,198 basehttp 124 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2019-09-12 15:38:35,212 basehttp 124 "GET /static/js/host.js HTTP/1.1" 200 80
+INFO 2019-09-12 15:38:35,241 basehttp 124 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2019-09-12 15:38:35,246 basehttp 124 "GET /static/css/main.css HTTP/1.1" 200 39968
+INFO 2019-09-12 15:38:35,255 basehttp 124 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO 2019-09-12 15:38:35,263 basehttp 124 "GET /static/images/logo.png HTTP/1.1" 200 7450
+INFO 2019-09-12 15:38:35,266 basehttp 124 "GET /static/images/goods/goods001.jpg HTTP/1.1" 200 5391
+INFO 2019-09-12 15:38:35,274 basehttp 124 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2019-09-12 15:38:35,297 basehttp 124 "GET /static/js/list.js HTTP/1.1" 200 2089
+INFO 2019-09-12 15:38:35,299 basehttp 124 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2019-09-12 15:38:35,337 basehttp 124 "GET /static/js/jquery.pagination.min.js HTTP/1.1" 200 2935
+INFO 2019-09-12 15:38:35,341 basehttp 124 "GET /static/images/goods/goods002.jpg HTTP/1.1" 200 5377
+INFO 2019-09-12 15:38:35,426 basehttp 124 "GET /carts/simple/ HTTP/1.1" 200 17
+INFO 2019-09-12 15:38:35,453 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 572
+INFO 2019-09-12 15:38:35,456 basehttp 124 "GET /static/images/shop_cart.png HTTP/1.1" 200 1317
+INFO 2019-09-12 15:38:35,458 basehttp 124 "GET /static/images/icons.png HTTP/1.1" 200 7740
+INFO 2019-09-12 15:38:41,399 basehttp 124 "GET /static/css/jquery.pagination.css HTTP/1.1" 200 523
+INFO 2019-09-12 15:38:41,410 basehttp 124 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2019-09-12 15:38:41,416 basehttp 124 "GET /static/css/main.css HTTP/1.1" 200 39968
+WARNING 2019-09-12 15:38:41,507 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+WARNING 2019-09-12 15:38:43,858 base 152 Not Found: /favicon.ico
+WARNING 2019-09-12 15:38:43,861 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 9977
+INFO 2019-09-12 15:39:28,805 basehttp 124 "GET / HTTP/1.1" 200 109893
+INFO 2019-09-12 15:39:28,898 basehttp 124 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2019-09-12 15:39:28,910 basehttp 124 "GET /static/css/main.css HTTP/1.1" 200 39968
+INFO 2019-09-12 15:39:28,944 basehttp 124 "GET /static/js/host.js HTTP/1.1" 200 80
+INFO 2019-09-12 15:39:28,958 basehttp 124 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2019-09-12 15:39:28,995 basehttp 124 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2019-09-12 15:39:29,001 basehttp 124 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO 2019-09-12 15:39:29,022 basehttp 124 "GET /static/images/logo.png HTTP/1.1" 200 7450
+INFO 2019-09-12 15:39:29,052 basehttp 124 "GET /static/js/slide.js HTTP/1.1" 200 1822
+WARNING 2019-09-12 15:39:29,204 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+INFO 2019-09-12 15:39:29,215 basehttp 124 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2019-09-12 15:39:29,222 basehttp 124 "GET /static/js/index.js HTTP/1.1" 200 1829
+INFO 2019-09-12 15:39:29,292 basehttp 124 "GET /static/images/icons.png HTTP/1.1" 200 7740
+INFO 2019-09-12 15:39:29,310 basehttp 124 "GET /static/images/adv01.jpg HTTP/1.1" 200 39831
+INFO 2019-09-12 15:39:29,939 basehttp 124 "GET /carts/simple/ HTTP/1.1" 200 17
+WARNING 2019-09-12 15:39:37,304 base 152 Not Found: /meiduo_admin/orders/
+WARNING 2019-09-12 15:39:37,305 basehttp 124 "GET /meiduo_admin/orders/?page=1&pagesize=10&keyword= HTTP/1.1" 404 22338
+WARNING 2019-09-12 15:39:39,289 basehttp 124 "GET /meiduo_admin/skus/images/?page=1&pagesize=10 HTTP/1.1" 401 38
+INFO 2019-09-12 15:39:39,311 basehttp 124 "GET /meiduo_admin/skus/simple/ HTTP/1.1" 200 1466
+INFO 2019-09-12 15:39:39,352 basehttp 124 "GET /meiduo_admin/skus/simple/ HTTP/1.1" 200 1466
+INFO 2019-09-12 15:39:44,755 basehttp 124 "GET / HTTP/1.1" 200 109893
+INFO 2019-09-12 15:39:45,329 basehttp 124 "GET /carts/simple/ HTTP/1.1" 200 17
+WARNING 2019-09-12 15:50:55,396 basehttp 124 "GET /meiduo_admin/skus/images/?page=1&pagesize=10 HTTP/1.1" 401 38
+WARNING 2019-09-12 15:50:55,397 basehttp 124 "GET /meiduo_admin/skus/simple/ HTTP/1.1" 401 38
+WARNING 2019-09-12 15:50:55,418 basehttp 124 "GET /meiduo_admin/skus/simple/ HTTP/1.1" 401 38
+INFO 2019-09-12 15:50:56,531 basehttp 124 "POST /meiduo_admin/authorizations/ HTTP/1.1" 200 203
+INFO 2019-09-12 15:50:56,617 basehttp 124 "GET /meiduo_admin/statistical/total_count/ HTTP/1.1" 200 11
+INFO 2019-09-12 15:50:56,633 basehttp 124 "GET /meiduo_admin/statistical/day_active/ HTTP/1.1" 200 11
+INFO 2019-09-12 15:50:56,651 basehttp 124 "GET /meiduo_admin/statistical/day_increment/ HTTP/1.1" 200 11
+INFO 2019-09-12 15:50:56,652 basehttp 124 "GET /meiduo_admin/statistical/day_orders/ HTTP/1.1" 200 13
+INFO 2019-09-12 15:50:56,700 basehttp 124 "GET /meiduo_admin/statistical/goods_day_views/ HTTP/1.1" 200 2
+INFO 2019-09-12 15:50:56,727 basehttp 124 "GET /meiduo_admin/statistical/day_orders/ HTTP/1.1" 200 13
+INFO 2019-09-12 15:50:56,732 basehttp 124 "GET /meiduo_admin/statistical/day_active/ HTTP/1.1" 200 11
+INFO 2019-09-12 15:50:56,771 basehttp 124 "GET /meiduo_admin/statistical/month_increment/ HTTP/1.1" 200 961
+WARNING 2019-09-12 15:50:58,250 base 152 Not Found: /meiduo_admin/orders/
+WARNING 2019-09-12 15:50:58,251 basehttp 124 "GET /meiduo_admin/orders/?page=1&pagesize=10&keyword= HTTP/1.1" 404 22338
+WARNING 2019-09-12 15:50:59,820 basehttp 124 "GET /meiduo_admin/skus/simple/ HTTP/1.1" 401 38
+WARNING 2019-09-12 15:50:59,836 basehttp 124 "GET /meiduo_admin/skus/simple/ HTTP/1.1" 401 38
+INFO 2019-09-12 15:50:59,851 basehttp 124 "GET /meiduo_admin/skus/images/?page=1&pagesize=10 HTTP/1.1" 200 1984
+INFO 2019-09-12 15:51:11,086 basehttp 124 "OPTIONS /meiduo_admin/skus/images/?page=2&pagesize=10 HTTP/1.1" 200 0
+INFO 2019-09-12 15:51:11,104 basehttp 124 "GET /meiduo_admin/skus/images/?page=2&pagesize=10 HTTP/1.1" 200 1990
+INFO 2019-09-12 15:55:03,931 basehttp 124 "GET /meiduo_admin/skus/images/?page=1&pagesize=10 HTTP/1.1" 200 1984
+INFO 2019-09-12 15:55:03,973 basehttp 124 "GET /meiduo_admin/skus/simple/ HTTP/1.1" 200 1466
+INFO 2019-09-12 15:55:03,994 basehttp 124 "GET /meiduo_admin/skus/simple/ HTTP/1.1" 200 1466
+INFO 2019-09-12 15:55:30,882 basehttp 124 "OPTIONS /meiduo_admin/skus/images/ HTTP/1.1" 200 0
+ERROR 2019-09-12 15:55:30,931 exception 135 Internal Server Error: /meiduo_admin/skus/images/
+Traceback (most recent call last):
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/rest_framework/viewsets.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/rest_framework/views.py", line 483, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/rest_framework/views.py", line 443, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/rest_framework/views.py", line 480, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/grey/Desktop/Shop/meiduo_mall/meiduo_mall/apps/meiduo_admin/good/sku_image_view.py", line 27, in create
+    result = client.upload_by_buffer(image.read())
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/fdfs_client/client.py", line 125, in upload_by_buffer
+    store_serv = tc.tracker_query_storage_stor_without_group()
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/fdfs_client/tracker_client.py", line 381, in tracker_query_storage_stor_without_group
+    raise DataError('[-] Error: %d, %s' % (th.status, os.strerror(th.status)))
+fdfs_client.exceptions.DataError: [-] Error: 2, No such file or directory
+ERROR 2019-09-12 15:55:31,077 basehttp 124 "POST /meiduo_admin/skus/images/ HTTP/1.1" 500 22599
+WARNING 2019-09-12 15:56:20,681 base 152 Not Found: /meiduo_admin/orders/
+WARNING 2019-09-12 15:56:20,682 basehttp 124 "GET /meiduo_admin/orders/?page=1&pagesize=10&keyword= HTTP/1.1" 404 22338
+INFO 2019-09-12 16:10:28,939 basehttp 124 "GET /meiduo_admin/orders/?page=1&pagesize=10&keyword= HTTP/1.1" 200 1424
+INFO 2019-09-12 16:10:36,401 basehttp 124 "OPTIONS /meiduo_admin/orders/201908300253151743546641/ HTTP/1.1" 200 0
+WARNING 2019-09-12 16:10:36,420 base 152 Not Found: /meiduo_admin/orders/201908300253151743546641/
+WARNING 2019-09-12 16:10:36,423 basehttp 124 "GET /meiduo_admin/orders/201908300253151743546641/ HTTP/1.1" 404 22547
+INFO 2019-09-12 16:17:11,708 basehttp 124 "GET /meiduo_admin/orders/?page=1&pagesize=10&keyword= HTTP/1.1" 200 1424
+INFO 2019-09-12 16:17:12,626 basehttp 124 "GET /meiduo_admin/orders/201908300253151743546641/ HTTP/1.1" 200 231
+INFO 2019-09-12 16:24:39,144 basehttp 124 "GET /meiduo_admin/orders/?page=1&pagesize=10&keyword= HTTP/1.1" 200 1424
+INFO 2019-09-12 16:24:40,419 basehttp 124 "GET /meiduo_admin/orders/201908300253151743546641/ HTTP/1.1" 200 231
+INFO 2019-09-12 16:24:50,202 basehttp 124 "GET /meiduo_admin/orders/?page=1&pagesize=10&keyword= HTTP/1.1" 200 1424
+INFO 2019-09-12 16:24:51,914 basehttp 124 "OPTIONS /meiduo_admin/orders/201908301304099791878771/ HTTP/1.1" 200 0
+INFO 2019-09-12 16:24:51,940 basehttp 124 "GET /meiduo_admin/orders/201908301304099791878771/ HTTP/1.1" 200 231
+INFO 2019-09-12 16:25:08,421 basehttp 124 "GET /meiduo_admin/orders/?page=1&pagesize=10&keyword= HTTP/1.1" 200 1424
+INFO 2019-09-12 16:25:09,897 basehttp 124 "GET /meiduo_admin/orders/201908300253151743546641/ HTTP/1.1" 200 231
+INFO 2019-09-12 16:26:36,588 basehttp 124 "OPTIONS /meiduo_admin/orders/undefined/ HTTP/1.1" 200 0
+WARNING 2019-09-12 16:26:36,929 base 152 Not Found: /meiduo_admin/orders/undefined/
+WARNING 2019-09-12 16:26:36,937 basehttp 124 "GET /meiduo_admin/orders/undefined/ HTTP/1.1" 404 22690
+INFO 2019-09-12 16:26:38,801 basehttp 124 "GET /meiduo_admin/orders/?page=1&pagesize=10&keyword= HTTP/1.1" 200 1424
+INFO 2019-09-12 16:26:40,424 basehttp 124 "OPTIONS /meiduo_admin/orders/201908301258422464335251/ HTTP/1.1" 200 0
+INFO 2019-09-12 16:26:40,568 basehttp 124 "GET /meiduo_admin/orders/201908301258422464335251/ HTTP/1.1" 200 708
+WARNING 2019-09-12 16:34:58,038 base 152 Not Found: /meiduo_admin/orders/undefined/
+WARNING 2019-09-12 16:34:58,042 basehttp 124 "GET /meiduo_admin/orders/undefined/ HTTP/1.1" 404 23
+WARNING 2019-09-12 16:35:15,052 base 152 Not Found: /meiduo_admin/orders/undefined/
+WARNING 2019-09-12 16:35:15,059 basehttp 124 "GET /meiduo_admin/orders/undefined/ HTTP/1.1" 404 23
+INFO 2019-09-12 16:35:17,880 basehttp 124 "GET /meiduo_admin/orders/?page=1&pagesize=10&keyword= HTTP/1.1" 200 1424
+INFO 2019-09-12 16:35:20,177 basehttp 124 "GET /meiduo_admin/orders/201908300253151743546641/ HTTP/1.1" 200 474
+INFO 2019-09-12 16:35:23,550 basehttp 124 "GET /meiduo_admin/orders/?page=1&pagesize=10&keyword= HTTP/1.1" 200 1424
+INFO 2019-09-12 16:35:24,946 basehttp 124 "GET /meiduo_admin/orders/201908301304099791878771/ HTTP/1.1" 200 708
+INFO 2019-09-12 16:42:05,199 basehttp 124 "GET / HTTP/1.1" 200 109893
+INFO 2019-09-12 16:42:05,330 basehttp 124 "GET /static/css/reset.css HTTP/1.1" 304 0
+INFO 2019-09-12 16:42:05,331 basehttp 124 "GET /static/js/host.js HTTP/1.1" 304 0
+INFO 2019-09-12 16:42:05,348 basehttp 124 "GET /static/css/main.css HTTP/1.1" 304 0
+INFO 2019-09-12 16:42:05,366 basehttp 124 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2019-09-12 16:42:05,367 basehttp 124 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2019-09-12 16:42:05,372 basehttp 124 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 304 0
+INFO 2019-09-12 16:42:05,415 basehttp 124 "GET /static/images/logo.png HTTP/1.1" 304 0
+INFO 2019-09-12 16:42:05,441 basehttp 124 "GET /static/js/slide.js HTTP/1.1" 304 0
+INFO 2019-09-12 16:42:05,485 basehttp 124 "GET /static/js/common.js HTTP/1.1" 304 0
+INFO 2019-09-12 16:42:05,503 basehttp 124 "GET /static/images/adv01.jpg HTTP/1.1" 304 0
+INFO 2019-09-12 16:42:05,515 basehttp 124 "GET /static/js/index.js HTTP/1.1" 304 0
+INFO 2019-09-12 16:42:05,524 basehttp 124 "GET /static/images/icons.png HTTP/1.1" 304 0
+INFO 2019-09-12 16:42:06,122 basehttp 124 "GET /carts/simple/ HTTP/1.1" 200 17
+INFO 2019-09-12 16:42:09,496 basehttp 124 "GET /meiduo_admin/orders/?page=1&pagesize=10&keyword= HTTP/1.1" 200 1424
+INFO 2019-09-12 16:42:12,220 basehttp 124 "GET /meiduo_admin/orders/201908300253151743546641/ HTTP/1.1" 200 474
+INFO 2019-09-12 16:42:20,771 basehttp 124 "OPTIONS /meiduo_admin/orders/201908300253151743546641/status/ HTTP/1.1" 200 0
+INFO 2019-09-12 16:43:42,410 basehttp 124 "PUT /meiduo_admin/orders/201908300253151743546641/status/ HTTP/1.1" 200 0
+INFO 2019-09-12 16:43:42,422 basehttp 124 "PUT /meiduo_admin/orders/201908300253151743546641/status/ HTTP/1.1" 200 0
+INFO 2019-09-12 16:43:42,423 basehttp 124 "PUT /meiduo_admin/orders/201908300253151743546641/status/ HTTP/1.1" 200 0
+INFO 2019-09-12 16:43:42,428 basehttp 124 "PUT /meiduo_admin/orders/201908300253151743546641/status/ HTTP/1.1" 200 0
+INFO 2019-09-12 16:43:42,432 basehttp 124 "PUT /meiduo_admin/orders/201908300253151743546641/status/ HTTP/1.1" 200 0
+INFO 2019-09-12 16:43:42,438 basehttp 124 "PUT /meiduo_admin/orders/201908300253151743546641/status/ HTTP/1.1" 200 0
+INFO 2019-09-12 16:43:42,581 basehttp 124 "GET /meiduo_admin/orders/201908300253151743546641/ HTTP/1.1" 200 474
+INFO 2019-09-12 16:43:42,667 basehttp 124 "GET /meiduo_admin/orders/201908300253151743546641/ HTTP/1.1" 200 474
+INFO 2019-09-12 16:43:42,717 basehttp 124 "GET /meiduo_admin/orders/201908300253151743546641/ HTTP/1.1" 200 474
+INFO 2019-09-12 16:43:42,779 basehttp 124 "GET /meiduo_admin/orders/201908300253151743546641/ HTTP/1.1" 200 474
+INFO 2019-09-12 16:43:42,874 basehttp 124 "GET /meiduo_admin/orders/201908300253151743546641/ HTTP/1.1" 200 474
+INFO 2019-09-12 16:43:42,940 basehttp 124 "GET /meiduo_admin/orders/201908300253151743546641/ HTTP/1.1" 200 474
+INFO 2019-09-12 17:07:23,528 basehttp 124 "OPTIONS /meiduo_admin/permission/content_types/ HTTP/1.1" 200 0
+INFO 2019-09-12 17:07:23,531 basehttp 124 "OPTIONS /meiduo_admin/permission/content_types/ HTTP/1.1" 200 0
+INFO 2019-09-12 17:07:23,577 basehttp 124 "OPTIONS /meiduo_admin/permission/perms/?page=1&pagesize=10 HTTP/1.1" 200 0
+WARNING 2019-09-12 17:07:23,664 base 152 Not Found: /meiduo_admin/permission/content_types/
+WARNING 2019-09-12 17:07:23,666 basehttp 124 "GET /meiduo_admin/permission/content_types/ HTTP/1.1" 404 25302
+WARNING 2019-09-12 17:07:23,688 base 152 Not Found: /meiduo_admin/permission/content_types/
+WARNING 2019-09-12 17:07:23,689 basehttp 124 "GET /meiduo_admin/permission/content_types/ HTTP/1.1" 404 25302
+INFO 2019-09-12 17:07:23,759 basehttp 124 "GET /meiduo_admin/permission/perms/?page=1&pagesize=10 HTTP/1.1" 200 31
+INFO 2019-09-12 17:07:26,044 basehttp 124 "OPTIONS /meiduo_admin/permission/simple/ HTTP/1.1" 200 0
+INFO 2019-09-12 17:07:26,051 basehttp 124 "OPTIONS /meiduo_admin/permission/simple/ HTTP/1.1" 200 0
+INFO 2019-09-12 17:07:26,053 basehttp 124 "OPTIONS /meiduo_admin/permission/groups/?page=1&pagesize=10 HTTP/1.1" 200 0
+WARNING 2019-09-12 17:07:26,080 base 152 Not Found: /meiduo_admin/permission/groups/
+WARNING 2019-09-12 17:07:26,082 basehttp 124 "GET /meiduo_admin/permission/groups/?page=1&pagesize=10 HTTP/1.1" 404 25304
+INFO 2019-09-12 17:07:26,207 basehttp 124 "GET /meiduo_admin/permission/simple/ HTTP/1.1" 200 6865
+INFO 2019-09-12 17:07:26,228 basehttp 124 "GET /meiduo_admin/permission/simple/ HTTP/1.1" 200 6865
+INFO 2019-09-12 17:07:27,263 basehttp 124 "OPTIONS /meiduo_admin/permission/groups/simple/ HTTP/1.1" 200 0
+INFO 2019-09-12 17:07:27,270 basehttp 124 "OPTIONS /meiduo_admin/permission/groups/simple/ HTTP/1.1" 200 0
+INFO 2019-09-12 17:07:27,275 basehttp 124 "OPTIONS /meiduo_admin/permission/admins/?page=1&pagesize=10 HTTP/1.1" 200 0
+WARNING 2019-09-12 17:07:27,304 base 152 Not Found: /meiduo_admin/permission/admins/
+INFO 2019-09-12 17:07:27,308 basehttp 124 "GET /meiduo_admin/permission/simple/ HTTP/1.1" 200 6865
+WARNING 2019-09-12 17:07:27,309 basehttp 124 "GET /meiduo_admin/permission/admins/?page=1&pagesize=10 HTTP/1.1" 404 25304
+WARNING 2019-09-12 17:07:27,314 base 152 Not Found: /meiduo_admin/permission/groups/simple/
+WARNING 2019-09-12 17:07:27,321 basehttp 124 "GET /meiduo_admin/permission/groups/simple/ HTTP/1.1" 404 25302
+WARNING 2019-09-12 17:07:27,333 base 152 Not Found: /meiduo_admin/permission/groups/simple/
+INFO 2019-09-12 17:07:27,338 basehttp 124 "GET /meiduo_admin/permission/simple/ HTTP/1.1" 200 6865
+WARNING 2019-09-12 17:07:27,341 basehttp 124 "GET /meiduo_admin/permission/groups/simple/ HTTP/1.1" 404 25302
+WARNING 2019-09-12 17:07:28,026 base 152 Not Found: /meiduo_admin/permission/content_types/
+WARNING 2019-09-12 17:07:28,027 basehttp 124 "GET /meiduo_admin/permission/content_types/ HTTP/1.1" 404 25302
+WARNING 2019-09-12 17:07:28,051 base 152 Not Found: /meiduo_admin/permission/content_types/
+WARNING 2019-09-12 17:07:28,051 basehttp 124 "GET /meiduo_admin/permission/content_types/ HTTP/1.1" 404 25302
+INFO 2019-09-12 17:07:28,054 basehttp 124 "GET /meiduo_admin/permission/perms/?page=1&pagesize=10 HTTP/1.1" 200 31
+WARNING 2019-09-12 17:07:28,570 base 152 Not Found: /meiduo_admin/permission/groups/
+WARNING 2019-09-12 17:07:28,575 basehttp 124 "GET /meiduo_admin/permission/groups/?page=1&pagesize=10 HTTP/1.1" 404 25304
+INFO 2019-09-12 17:07:28,580 basehttp 124 "GET /meiduo_admin/permission/simple/ HTTP/1.1" 200 6865
+INFO 2019-09-12 17:07:28,598 basehttp 124 "GET /meiduo_admin/permission/simple/ HTTP/1.1" 200 6865
+WARNING 2019-09-12 17:07:28,984 base 152 Not Found: /meiduo_admin/permission/content_types/
+WARNING 2019-09-12 17:07:28,988 basehttp 124 "GET /meiduo_admin/permission/content_types/ HTTP/1.1" 404 25302
+INFO 2019-09-12 17:07:29,005 basehttp 124 "GET /meiduo_admin/permission/perms/?page=1&pagesize=10 HTTP/1.1" 200 31
+WARNING 2019-09-12 17:07:29,011 base 152 Not Found: /meiduo_admin/permission/content_types/
+WARNING 2019-09-12 17:07:29,012 basehttp 124 "GET /meiduo_admin/permission/content_types/ HTTP/1.1" 404 25302
+INFO 2019-09-12 17:07:37,049 basehttp 124 "OPTIONS /meiduo_admin/permission/perms/ HTTP/1.1" 200 0
+INFO 2019-09-12 17:07:37,277 basehttp 124 "POST /meiduo_admin/permission/perms/ HTTP/1.1" 201 38
+INFO 2019-09-12 17:07:37,303 basehttp 124 "GET /meiduo_admin/permission/perms/?page=1&pagesize=10 HTTP/1.1" 200 69
+WARNING 2019-09-12 17:07:39,328 base 152 Not Found: /meiduo_admin/permission/groups/
+WARNING 2019-09-12 17:07:39,338 basehttp 124 "GET /meiduo_admin/permission/groups/?page=1&pagesize=10 HTTP/1.1" 404 25304
+INFO 2019-09-12 17:07:39,339 basehttp 124 "GET /meiduo_admin/permission/simple/ HTTP/1.1" 200 6865
+INFO 2019-09-12 17:07:39,362 basehttp 124 "GET /meiduo_admin/permission/simple/ HTTP/1.1" 200 6865
+INFO 2019-09-12 17:07:46,176 basehttp 124 "OPTIONS /meiduo_admin/permission/groups/ HTTP/1.1" 200 0
+WARNING 2019-09-12 17:07:46,195 base 152 Not Found: /meiduo_admin/permission/groups/
+WARNING 2019-09-12 17:07:46,196 basehttp 124 "POST /meiduo_admin/permission/groups/ HTTP/1.1" 404 25282
+WARNING 2019-09-12 17:07:47,876 base 152 Not Found: /meiduo_admin/permission/groups/
+WARNING 2019-09-12 17:07:47,876 basehttp 124 "POST /meiduo_admin/permission/groups/ HTTP/1.1" 404 25282
+WARNING 2019-09-12 17:07:48,099 base 152 Not Found: /meiduo_admin/permission/groups/
+WARNING 2019-09-12 17:07:48,100 basehttp 124 "POST /meiduo_admin/permission/groups/ HTTP/1.1" 404 25282
+WARNING 2019-09-12 17:07:48,294 base 152 Not Found: /meiduo_admin/permission/groups/
+WARNING 2019-09-12 17:07:48,294 basehttp 124 "POST /meiduo_admin/permission/groups/ HTTP/1.1" 404 25282
+WARNING 2019-09-12 17:07:48,513 base 152 Not Found: /meiduo_admin/permission/groups/
+WARNING 2019-09-12 17:07:48,514 basehttp 124 "POST /meiduo_admin/permission/groups/ HTTP/1.1" 404 25282
+WARNING 2019-09-12 17:07:48,924 base 152 Not Found: /meiduo_admin/permission/groups/
+WARNING 2019-09-12 17:07:48,926 basehttp 124 "POST /meiduo_admin/permission/groups/ HTTP/1.1" 404 25282
+WARNING 2019-09-12 17:08:17,133 base 152 Not Found: /meiduo_admin/permission/content_types/
+WARNING 2019-09-12 17:08:17,137 basehttp 124 "GET /meiduo_admin/permission/content_types/ HTTP/1.1" 404 25302
+WARNING 2019-09-12 17:08:17,156 base 152 Not Found: /meiduo_admin/permission/content_types/
+WARNING 2019-09-12 17:08:17,158 basehttp 124 "GET /meiduo_admin/permission/content_types/ HTTP/1.1" 404 25302
+INFO 2019-09-12 17:08:17,170 basehttp 124 "GET /meiduo_admin/permission/perms/?page=1&pagesize=10 HTTP/1.1" 200 69
+WARNING 2019-09-12 17:23:25,877 base 152 Not Found: /meiduo_admin/permission/groups/
+WARNING 2019-09-12 17:23:25,880 basehttp 124 "GET /meiduo_admin/permission/groups/?page=1&pagesize=10 HTTP/1.1" 404 26793
+INFO 2019-09-12 17:23:25,894 basehttp 124 "GET /meiduo_admin/permission/simple/ HTTP/1.1" 200 6865
+INFO 2019-09-12 17:23:25,910 basehttp 124 "GET /meiduo_admin/permission/simple/ HTTP/1.1" 200 6865
+WARNING 2019-09-12 17:23:34,014 base 152 Not Found: /meiduo_admin/permission/groups/
+WARNING 2019-09-12 17:23:34,015 basehttp 124 "POST /meiduo_admin/permission/groups/ HTTP/1.1" 404 26771
+WARNING 2019-09-12 17:23:35,209 base 152 Not Found: /meiduo_admin/permission/groups/
+WARNING 2019-09-12 17:23:35,220 basehttp 124 "POST /meiduo_admin/permission/groups/ HTTP/1.1" 404 26771
+INFO 2019-09-12 17:23:41,242 basehttp 124 "GET /meiduo_admin/permission/simple/ HTTP/1.1" 200 6865
+WARNING 2019-09-12 17:23:41,249 base 152 Not Found: /meiduo_admin/permission/groups/
+WARNING 2019-09-12 17:23:41,250 basehttp 124 "GET /meiduo_admin/permission/groups/?page=1&pagesize=10 HTTP/1.1" 404 26793
+INFO 2019-09-12 17:23:41,281 basehttp 124 "GET /meiduo_admin/permission/simple/ HTTP/1.1" 200 6865
+WARNING 2019-09-12 17:23:49,823 base 152 Not Found: /meiduo_admin/permission/groups/
+WARNING 2019-09-12 17:23:49,828 basehttp 124 "POST /meiduo_admin/permission/groups/ HTTP/1.1" 404 26771
+WARNING 2019-09-12 17:23:51,947 base 152 Not Found: /meiduo_admin/permission/groups/
+WARNING 2019-09-12 17:23:51,948 basehttp 124 "POST /meiduo_admin/permission/groups/ HTTP/1.1" 404 26771
+WARNING 2019-09-12 17:24:14,130 base 152 Not Found: /meiduo_admin/permission/groups/
+WARNING 2019-09-12 17:24:14,131 basehttp 124 "POST /meiduo_admin/permission/groups/ HTTP/1.1" 404 26771
+WARNING 2019-09-12 17:24:14,450 base 152 Not Found: /meiduo_admin/permission/groups/
+WARNING 2019-09-12 17:24:14,451 basehttp 124 "POST /meiduo_admin/permission/groups/ HTTP/1.1" 404 26771
+WARNING 2019-09-12 17:24:14,657 base 152 Not Found: /meiduo_admin/permission/groups/
+WARNING 2019-09-12 17:24:14,658 basehttp 124 "POST /meiduo_admin/permission/groups/ HTTP/1.1" 404 26771
+INFO 2019-09-12 17:24:22,602 basehttp 124 "OPTIONS /meiduo_admin/permission/groups/ HTTP/1.1" 200 0
+WARNING 2019-09-12 17:24:22,640 base 152 Not Found: /meiduo_admin/permission/groups/
+WARNING 2019-09-12 17:24:22,647 basehttp 124 "POST /meiduo_admin/permission/groups/ HTTP/1.1" 404 26771
+INFO 2019-09-12 17:26:35,040 basehttp 124 "GET /meiduo_admin/permission/groups/?page=1&pagesize=10 HTTP/1.1" 200 40
+INFO 2019-09-12 17:26:35,049 basehttp 124 "GET /meiduo_admin/permission/simple/ HTTP/1.1" 200 6865
+INFO 2019-09-12 17:26:35,101 basehttp 124 "GET /meiduo_admin/permission/simple/ HTTP/1.1" 200 6865
+WARNING 2019-09-12 17:26:40,116 basehttp 124 "POST /meiduo_admin/permission/groups/ HTTP/1.1" 405 41
+WARNING 2019-09-12 17:26:42,701 basehttp 124 "POST /meiduo_admin/permission/groups/ HTTP/1.1" 405 41
+WARNING 2019-09-12 17:26:43,434 basehttp 124 "POST /meiduo_admin/permission/groups/ HTTP/1.1" 405 41
+WARNING 2019-09-12 17:26:43,628 basehttp 124 "POST /meiduo_admin/permission/groups/ HTTP/1.1" 405 41
+WARNING 2019-09-12 17:26:43,764 basehttp 124 "POST /meiduo_admin/permission/groups/ HTTP/1.1" 405 41
+INFO 2019-09-12 17:27:49,143 basehttp 124 "GET /meiduo_admin/permission/groups/?page=1&pagesize=10 HTTP/1.1" 200 69
+INFO 2019-09-12 17:27:49,144 basehttp 124 "GET /meiduo_admin/permission/simple/ HTTP/1.1" 200 6865
+INFO 2019-09-12 17:27:49,167 basehttp 124 "GET /meiduo_admin/permission/simple/ HTTP/1.1" 200 6865
+INFO 2019-09-12 17:27:58,997 basehttp 124 "POST /meiduo_admin/permission/groups/ HTTP/1.1" 201 47
+INFO 2019-09-12 17:27:59,061 basehttp 124 "OPTIONS /meiduo_admin/permission/groups/?pagesize=10 HTTP/1.1" 200 0
+INFO 2019-09-12 17:27:59,110 basehttp 124 "GET /meiduo_admin/permission/groups/?pagesize=10 HTTP/1.1" 200 117
+INFO 2019-09-13 16:38:47,397 basehttp 124 "GET / HTTP/1.1" 200 109893
+INFO 2019-09-13 16:38:47,549 basehttp 124 "GET /static/css/reset.css HTTP/1.1" 304 0
+INFO 2019-09-13 16:38:47,551 basehttp 124 "GET /static/js/host.js HTTP/1.1" 304 0
+INFO 2019-09-13 16:38:47,583 basehttp 124 "GET /static/css/main.css HTTP/1.1" 304 0
+INFO 2019-09-13 16:38:47,614 basehttp 124 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 304 0
+INFO 2019-09-13 16:38:47,622 basehttp 124 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2019-09-13 16:38:47,627 basehttp 124 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2019-09-13 16:38:47,660 basehttp 124 "GET /static/images/logo.png HTTP/1.1" 304 0
+INFO 2019-09-13 16:38:47,712 basehttp 124 "GET /static/js/slide.js HTTP/1.1" 304 0
+INFO 2019-09-13 16:38:47,807 basehttp 124 "GET /static/js/common.js HTTP/1.1" 304 0
+INFO 2019-09-13 16:38:47,810 basehttp 124 "GET /static/images/adv01.jpg HTTP/1.1" 304 0
+INFO 2019-09-13 16:38:47,915 basehttp 124 "GET /static/js/index.js HTTP/1.1" 304 0
+INFO 2019-09-13 16:38:47,920 basehttp 124 "GET /static/images/icons.png HTTP/1.1" 304 0
+INFO 2019-09-13 16:38:48,633 basehttp 124 "GET /carts/simple/ HTTP/1.1" 200 17
+INFO 2019-09-13 16:39:05,975 basehttp 124 "OPTIONS /meiduo_admin/authorizations/ HTTP/1.1" 200 0
+INFO 2019-09-13 16:39:06,044 basehttp 124 "POST /meiduo_admin/authorizations/ HTTP/1.1" 200 203
+INFO 2019-09-13 16:39:06,163 basehttp 124 "OPTIONS /meiduo_admin/statistical/total_count/ HTTP/1.1" 200 0
+INFO 2019-09-13 16:39:06,171 basehttp 124 "OPTIONS /meiduo_admin/statistical/day_increment/ HTTP/1.1" 200 0
+INFO 2019-09-13 16:39:06,174 basehttp 124 "OPTIONS /meiduo_admin/statistical/day_active/ HTTP/1.1" 200 0
+INFO 2019-09-13 16:39:06,210 basehttp 124 "OPTIONS /meiduo_admin/statistical/day_orders/ HTTP/1.1" 200 0
+INFO 2019-09-13 16:39:06,240 basehttp 124 "OPTIONS /meiduo_admin/statistical/month_increment/ HTTP/1.1" 200 0
+INFO 2019-09-13 16:39:06,258 basehttp 124 "OPTIONS /meiduo_admin/statistical/day_active/ HTTP/1.1" 200 0
+INFO 2019-09-13 16:39:06,263 basehttp 124 "OPTIONS /meiduo_admin/statistical/day_orders/ HTTP/1.1" 200 0
+INFO 2019-09-13 16:39:06,289 basehttp 124 "OPTIONS /meiduo_admin/statistical/goods_day_views/ HTTP/1.1" 200 0
+INFO 2019-09-13 16:39:06,357 basehttp 124 "GET /meiduo_admin/statistical/total_count/ HTTP/1.1" 200 11
+INFO 2019-09-13 16:39:06,377 basehttp 124 "GET /meiduo_admin/statistical/day_increment/ HTTP/1.1" 200 11
+INFO 2019-09-13 16:39:06,389 basehttp 124 "GET /meiduo_admin/statistical/day_active/ HTTP/1.1" 200 11
+INFO 2019-09-13 16:39:06,421 basehttp 124 "GET /meiduo_admin/statistical/day_orders/ HTTP/1.1" 200 13
+INFO 2019-09-13 16:39:06,472 basehttp 124 "GET /meiduo_admin/statistical/goods_day_views/ HTTP/1.1" 200 2
+INFO 2019-09-13 16:39:06,489 basehttp 124 "GET /meiduo_admin/statistical/day_active/ HTTP/1.1" 200 11
+INFO 2019-09-13 16:39:06,498 basehttp 124 "GET /meiduo_admin/statistical/day_orders/ HTTP/1.1" 200 13
+INFO 2019-09-13 16:39:06,523 basehttp 124 "GET /meiduo_admin/statistical/month_increment/ HTTP/1.1" 200 961
+INFO 2019-09-13 16:39:12,430 basehttp 124 "OPTIONS /meiduo_admin/users/?page=1&pagesize=10&keyword= HTTP/1.1" 200 0
+INFO 2019-09-13 16:39:12,565 basehttp 124 "GET /meiduo_admin/users/?page=1&pagesize=10&keyword= HTTP/1.1" 200 411
+INFO 2019-09-13 16:39:14,673 basehttp 124 "OPTIONS /meiduo_admin/goods/?page=1&pagesize=10 HTTP/1.1" 200 0
+INFO 2019-09-13 16:39:15,242 basehttp 124 "GET /meiduo_admin/goods/?page=1&pagesize=10 HTTP/1.1" 200 11072
+INFO 2019-09-13 16:39:15,974 basehttp 124 "OPTIONS /meiduo_admin/skus/categories/ HTTP/1.1" 200 0
+INFO 2019-09-13 16:39:15,994 basehttp 124 "OPTIONS /meiduo_admin/skus/categories/ HTTP/1.1" 200 0
+INFO 2019-09-13 16:39:15,996 basehttp 124 "OPTIONS /meiduo_admin/goods/simple/ HTTP/1.1" 200 0
+INFO 2019-09-13 16:39:16,013 basehttp 124 "OPTIONS /meiduo_admin/skus/?page=1&pagesize=10&keyword= HTTP/1.1" 200 0
+WARNING 2019-09-13 16:39:16,018 basehttp 124 "GET /meiduo_admin/skus/categories/ HTTP/1.1" 401 35
+INFO 2019-09-13 16:39:16,026 basehttp 124 "OPTIONS /meiduo_admin/goods/simple/ HTTP/1.1" 200 0
+WARNING 2019-09-13 16:39:16,039 basehttp 124 "GET /meiduo_admin/skus/categories/ HTTP/1.1" 401 35
+WARNING 2019-09-13 16:39:16,047 basehttp 124 "GET /meiduo_admin/goods/simple/ HTTP/1.1" 401 35
+WARNING 2019-09-13 16:39:16,070 basehttp 124 "GET /meiduo_admin/goods/simple/ HTTP/1.1" 401 35
+INFO 2019-09-13 16:39:16,322 basehttp 124 "GET /meiduo_admin/skus/?page=1&pagesize=10&keyword= HTTP/1.1" 200 6557
+INFO 2019-09-13 16:39:17,520 basehttp 124 "OPTIONS /meiduo_admin/goods/specs/simple/ HTTP/1.1" 200 0
+INFO 2019-09-13 16:39:17,524 basehttp 124 "OPTIONS /meiduo_admin/goods/specs/simple/ HTTP/1.1" 200 0
+INFO 2019-09-13 16:39:17,529 basehttp 124 "OPTIONS /meiduo_admin/specs/options/?page=1&pagesize=10 HTTP/1.1" 200 0
+WARNING 2019-09-13 16:39:17,554 basehttp 124 "GET /meiduo_admin/goods/specs/simple/ HTTP/1.1" 401 35
+WARNING 2019-09-13 16:39:17,583 basehttp 124 "GET /meiduo_admin/goods/specs/simple/ HTTP/1.1" 401 35
+INFO 2019-09-13 16:39:17,692 basehttp 124 "GET /meiduo_admin/specs/options/?page=1&pagesize=10 HTTP/1.1" 200 1786
+INFO 2019-09-13 16:39:18,654 basehttp 124 "OPTIONS /meiduo_admin/goods/channel_types/ HTTP/1.1" 200 0
+INFO 2019-09-13 16:39:18,661 basehttp 124 "OPTIONS /meiduo_admin/goods/categories/ HTTP/1.1" 200 0
+INFO 2019-09-13 16:39:18,673 basehttp 124 "OPTIONS /meiduo_admin/goods/channel_types/ HTTP/1.1" 200 0
+INFO 2019-09-13 16:39:18,691 basehttp 124 "OPTIONS /meiduo_admin/goods/categories/ HTTP/1.1" 200 0
+INFO 2019-09-13 16:39:18,708 basehttp 124 "OPTIONS /meiduo_admin/goods/channels/?page=1&pagesize=10 HTTP/1.1" 200 0
+WARNING 2019-09-13 16:39:18,725 basehttp 124 "GET /meiduo_admin/goods/channel_types/ HTTP/1.1" 401 35
+WARNING 2019-09-13 16:39:18,735 basehttp 124 "GET /meiduo_admin/goods/categories/ HTTP/1.1" 401 35
+WARNING 2019-09-13 16:39:18,750 basehttp 124 "GET /meiduo_admin/goods/channel_types/ HTTP/1.1" 401 35
+WARNING 2019-09-13 16:39:18,767 basehttp 124 "GET /meiduo_admin/goods/categories/ HTTP/1.1" 401 35
+INFO 2019-09-13 16:39:18,805 basehttp 124 "GET /meiduo_admin/goods/channels/?page=1&pagesize=10 HTTP/1.1" 200 1923
+WARNING 2019-09-13 16:39:19,628 basehttp 124 "GET /meiduo_admin/goods/channel_types/ HTTP/1.1" 401 35
+WARNING 2019-09-13 16:39:19,642 basehttp 124 "GET /meiduo_admin/goods/categories/ HTTP/1.1" 401 35
+INFO 2019-09-13 16:39:19,647 basehttp 124 "OPTIONS /meiduo_admin/goods/brands/?page=1&pagesize=10 HTTP/1.1" 200 0
+INFO 2019-09-13 16:39:19,692 basehttp 124 "GET /meiduo_admin/goods/brands/?page=1&pagesize=10 HTTP/1.1" 200 483
+INFO 2019-09-13 16:39:20,644 basehttp 124 "OPTIONS /meiduo_admin/skus/simple/ HTTP/1.1" 200 0
+INFO 2019-09-13 16:39:20,645 basehttp 124 "OPTIONS /meiduo_admin/skus/simple/ HTTP/1.1" 200 0
+INFO 2019-09-13 16:39:20,650 basehttp 124 "OPTIONS /meiduo_admin/skus/images/?page=1&pagesize=10 HTTP/1.1" 200 0
+WARNING 2019-09-13 16:39:20,685 basehttp 124 "GET /meiduo_admin/skus/simple/ HTTP/1.1" 401 35
+WARNING 2019-09-13 16:39:20,719 basehttp 124 "GET /meiduo_admin/skus/simple/ HTTP/1.1" 401 35
+INFO 2019-09-13 16:39:20,739 basehttp 124 "GET /meiduo_admin/skus/images/?page=1&pagesize=10 HTTP/1.1" 200 1984
+INFO 2019-09-13 16:39:24,325 basehttp 124 "OPTIONS /meiduo_admin/orders/?page=1&pagesize=10&keyword= HTTP/1.1" 200 0
+WARNING 2019-09-13 16:39:24,347 basehttp 124 "GET /meiduo_admin/orders/?page=1&pagesize=10&keyword= HTTP/1.1" 401 35
+WARNING 2019-09-13 16:39:28,187 base 152 Not Found: /favicon.ico
+WARNING 2019-09-13 16:39:28,188 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 9977
+INFO 2019-09-13 16:39:30,691 basehttp 124 "GET /meiduo_admin/orders/?page=1&pagesize=10&keyword= HTTP/1.1" 200 1424
+INFO 2019-09-13 16:39:35,307 basehttp 124 "OPTIONS /meiduo_admin/orders/201908301241328181678071/ HTTP/1.1" 200 0
+INFO 2019-09-13 16:39:35,346 basehttp 124 "GET /meiduo_admin/orders/201908301241328181678071/ HTTP/1.1" 200 706
+INFO 2019-09-13 16:39:43,374 basehttp 124 "OPTIONS /meiduo_admin/permission/simple/ HTTP/1.1" 200 0
+INFO 2019-09-13 16:39:43,380 basehttp 124 "OPTIONS /meiduo_admin/permission/simple/ HTTP/1.1" 200 0
+INFO 2019-09-13 16:39:43,385 basehttp 124 "OPTIONS /meiduo_admin/permission/groups/?page=1&pagesize=10 HTTP/1.1" 200 0
+INFO 2019-09-13 16:39:43,436 basehttp 124 "GET /meiduo_admin/permission/simple/ HTTP/1.1" 200 6865
+INFO 2019-09-13 16:39:43,444 basehttp 124 "GET /meiduo_admin/permission/groups/?page=1&pagesize=10 HTTP/1.1" 200 117
+INFO 2019-09-13 16:39:43,483 basehttp 124 "GET /meiduo_admin/permission/simple/ HTTP/1.1" 200 6865
+INFO 2019-09-13 16:39:46,199 basehttp 124 "OPTIONS /meiduo_admin/permission/groups/simple/ HTTP/1.1" 200 0
+INFO 2019-09-13 16:39:46,202 basehttp 124 "OPTIONS /meiduo_admin/permission/groups/simple/ HTTP/1.1" 200 0
+INFO 2019-09-13 16:39:46,219 basehttp 124 "GET /meiduo_admin/permission/simple/ HTTP/1.1" 200 6865
+INFO 2019-09-13 16:39:46,234 basehttp 124 "OPTIONS /meiduo_admin/permission/admins/?page=1&pagesize=10 HTTP/1.1" 200 0
+INFO 2019-09-13 16:39:46,280 basehttp 124 "GET /meiduo_admin/permission/groups/simple/ HTTP/1.1" 200 88
+INFO 2019-09-13 16:39:46,296 basehttp 124 "GET /meiduo_admin/permission/simple/ HTTP/1.1" 200 6865
+INFO 2019-09-13 16:39:46,540 basehttp 124 "GET /meiduo_admin/permission/groups/simple/ HTTP/1.1" 200 88
+INFO 2019-09-13 16:39:47,019 basehttp 124 "GET /meiduo_admin/permission/admins/?page=1&pagesize=10 HTTP/1.1" 200 397
+INFO 2019-09-13 16:41:07,010 basehttp 124 "GET /meiduo_admin/statistical/day_increment/ HTTP/1.1" 200 11
+INFO 2019-09-13 16:41:07,042 basehttp 124 "GET /meiduo_admin/statistical/day_active/ HTTP/1.1" 200 11
+INFO 2019-09-13 16:41:07,044 basehttp 124 "GET /meiduo_admin/statistical/day_orders/ HTTP/1.1" 200 13
+INFO 2019-09-13 16:41:07,056 basehttp 124 "GET /meiduo_admin/statistical/goods_day_views/ HTTP/1.1" 200 2
+INFO 2019-09-13 16:41:07,066 basehttp 124 "GET /meiduo_admin/statistical/total_count/ HTTP/1.1" 200 11
+INFO 2019-09-13 16:41:07,100 basehttp 124 "GET /meiduo_admin/statistical/day_orders/ HTTP/1.1" 200 13
+INFO 2019-09-13 16:41:07,113 basehttp 124 "GET /meiduo_admin/statistical/day_active/ HTTP/1.1" 200 11
+INFO 2019-09-13 16:41:07,131 basehttp 124 "GET /meiduo_admin/statistical/month_increment/ HTTP/1.1" 200 961
+INFO 2019-09-13 16:41:07,760 basehttp 124 "GET /meiduo_admin/users/?page=1&pagesize=10&keyword= HTTP/1.1" 200 411
+INFO 2019-09-13 16:41:09,131 basehttp 124 "GET /meiduo_admin/goods/?page=1&pagesize=10 HTTP/1.1" 200 11072
+INFO 2019-09-13 16:41:09,836 basehttp 124 "GET /meiduo_admin/goods/simple/ HTTP/1.1" 200 126
+INFO 2019-09-13 16:41:09,894 basehttp 124 "GET /meiduo_admin/goods/simple/ HTTP/1.1" 200 126
+INFO 2019-09-13 16:41:09,901 basehttp 124 "GET /meiduo_admin/skus/categories/ HTTP/1.1" 200 55407
+INFO 2019-09-13 16:41:09,984 basehttp 124 "GET /meiduo_admin/skus/categories/ HTTP/1.1" 200 55407
+INFO 2019-09-13 16:41:10,012 basehttp 124 "GET /meiduo_admin/skus/?page=1&pagesize=10&keyword= HTTP/1.1" 200 6557
+INFO 2019-09-13 16:41:14,944 basehttp 124 "GET /meiduo_admin/goods/?page=1&pagesize=10 HTTP/1.1" 200 11072
+INFO 2019-09-13 16:41:15,764 basehttp 124 "OPTIONS /meiduo_admin/goods/specs/?page=1&pagesize=10 HTTP/1.1" 200 0
+INFO 2019-09-13 16:41:15,798 basehttp 124 "GET /meiduo_admin/goods/simple/ HTTP/1.1" 200 126
+INFO 2019-09-13 16:41:15,830 basehttp 124 "GET /meiduo_admin/goods/specs/?page=1&pagesize=10 HTTP/1.1" 200 1116
+INFO 2019-09-13 16:41:15,847 basehttp 124 "GET /meiduo_admin/goods/simple/ HTTP/1.1" 200 126
+INFO 2019-09-13 16:41:16,586 basehttp 124 "GET /meiduo_admin/goods/simple/ HTTP/1.1" 200 126
+INFO 2019-09-13 16:41:16,623 basehttp 124 "GET /meiduo_admin/skus/categories/ HTTP/1.1" 200 55407
+INFO 2019-09-13 16:41:16,646 basehttp 124 "GET /meiduo_admin/goods/simple/ HTTP/1.1" 200 126
+INFO 2019-09-13 16:41:16,744 basehttp 124 "GET /meiduo_admin/skus/categories/ HTTP/1.1" 200 55407
+INFO 2019-09-13 16:41:16,745 basehttp 124 "GET /meiduo_admin/skus/?page=1&pagesize=10&keyword= HTTP/1.1" 200 6557
+INFO 2019-09-13 16:41:20,527 basehttp 124 "GET /meiduo_admin/goods/categories/ HTTP/1.1" 200 975
+INFO 2019-09-13 16:41:20,553 basehttp 124 "GET /meiduo_admin/goods/channels/?page=1&pagesize=10 HTTP/1.1" 200 1923
+INFO 2019-09-13 16:41:20,570 basehttp 124 "GET /meiduo_admin/goods/channel_types/ HTTP/1.1" 200 1290
+INFO 2019-09-13 16:41:20,585 basehttp 124 "GET /meiduo_admin/goods/categories/ HTTP/1.1" 200 975
+INFO 2019-09-13 16:41:20,611 basehttp 124 "GET /meiduo_admin/goods/channel_types/ HTTP/1.1" 200 1290
+INFO 2019-09-13 16:41:21,208 basehttp 124 "GET /meiduo_admin/goods/channel_types/ HTTP/1.1" 200 1290
+INFO 2019-09-13 16:41:21,220 basehttp 124 "GET /meiduo_admin/goods/categories/ HTTP/1.1" 200 975
+INFO 2019-09-13 16:41:21,226 basehttp 124 "GET /meiduo_admin/goods/brands/?page=1&pagesize=10 HTTP/1.1" 200 483
+INFO 2019-09-13 16:41:22,562 basehttp 124 "GET /meiduo_admin/goods/channel_types/ HTTP/1.1" 200 1290
+INFO 2019-09-13 16:41:22,581 basehttp 124 "GET /meiduo_admin/goods/categories/ HTTP/1.1" 200 975
+INFO 2019-09-13 16:41:22,611 basehttp 124 "GET /meiduo_admin/goods/channels/?page=1&pagesize=10 HTTP/1.1" 200 1923
+INFO 2019-09-13 16:41:22,619 basehttp 124 "GET /meiduo_admin/goods/channel_types/ HTTP/1.1" 200 1290
+INFO 2019-09-13 16:41:22,626 basehttp 124 "GET /meiduo_admin/goods/categories/ HTTP/1.1" 200 975
+ERROR 2019-09-13 16:41:23,475 exception 135 Internal Server Error: /meiduo_admin/goods/specs/simple/
+Traceback (most recent call last):
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/rest_framework/views.py", line 483, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/rest_framework/views.py", line 443, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/rest_framework/views.py", line 480, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/rest_framework/generics.py", line 201, in get
+    return self.list(request, *args, **kwargs)
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/rest_framework/mixins.py", line 48, in list
+    return Response(serializer.data)
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/rest_framework/serializers.py", line 765, in data
+    ret = super(ListSerializer, self).data
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/rest_framework/serializers.py", line 262, in data
+    self._data = self.to_representation(self.instance)
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/rest_framework/serializers.py", line 683, in to_representation
+    self.child.to_representation(item) for item in iterable
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/rest_framework/serializers.py", line 683, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/rest_framework/serializers.py", line 510, in to_representation
+    fields = self._readable_fields
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/rest_framework/serializers.py", line 376, in _readable_fields
+    field for field in self.fields.values()
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/rest_framework/serializers.py", line 363, in fields
+    for key, value in self.get_fields().items():
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/rest_framework/serializers.py", line 1002, in get_fields
+    serializer_class=self.__class__.__name__
+AssertionError: Class SpecSimpleSerializer missing "Meta.model" attribute
+INFO 2019-09-13 16:41:23,499 basehttp 124 "GET /meiduo_admin/specs/options/?page=1&pagesize=10 HTTP/1.1" 200 1786
+ERROR 2019-09-13 16:41:23,633 basehttp 124 "GET /meiduo_admin/goods/specs/simple/ HTTP/1.1" 500 23911
+ERROR 2019-09-13 16:41:23,655 exception 135 Internal Server Error: /meiduo_admin/goods/specs/simple/
+Traceback (most recent call last):
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/rest_framework/views.py", line 483, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/rest_framework/views.py", line 443, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/rest_framework/views.py", line 480, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/rest_framework/generics.py", line 201, in get
+    return self.list(request, *args, **kwargs)
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/rest_framework/mixins.py", line 48, in list
+    return Response(serializer.data)
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/rest_framework/serializers.py", line 765, in data
+    ret = super(ListSerializer, self).data
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/rest_framework/serializers.py", line 262, in data
+    self._data = self.to_representation(self.instance)
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/rest_framework/serializers.py", line 683, in to_representation
+    self.child.to_representation(item) for item in iterable
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/rest_framework/serializers.py", line 683, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/rest_framework/serializers.py", line 510, in to_representation
+    fields = self._readable_fields
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/rest_framework/serializers.py", line 376, in _readable_fields
+    field for field in self.fields.values()
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/rest_framework/serializers.py", line 363, in fields
+    for key, value in self.get_fields().items():
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/rest_framework/serializers.py", line 1002, in get_fields
+    serializer_class=self.__class__.__name__
+AssertionError: Class SpecSimpleSerializer missing "Meta.model" attribute
+ERROR 2019-09-13 16:41:23,676 basehttp 124 "GET /meiduo_admin/goods/specs/simple/ HTTP/1.1" 500 23911
+INFO 2019-09-13 16:41:24,778 basehttp 124 "GET /meiduo_admin/goods/simple/ HTTP/1.1" 200 126
+INFO 2019-09-13 16:41:24,811 basehttp 124 "GET /meiduo_admin/goods/specs/?page=1&pagesize=10 HTTP/1.1" 200 1116
+INFO 2019-09-13 16:41:24,824 basehttp 124 "GET /meiduo_admin/goods/simple/ HTTP/1.1" 200 126
+INFO 2019-09-13 16:41:25,661 basehttp 124 "GET /meiduo_admin/goods/?page=1&pagesize=10 HTTP/1.1" 200 11072
+INFO 2019-09-13 16:41:26,615 basehttp 124 "GET /meiduo_admin/goods/simple/ HTTP/1.1" 200 126
+INFO 2019-09-13 16:41:26,627 basehttp 124 "GET /meiduo_admin/skus/categories/ HTTP/1.1" 200 55407
+INFO 2019-09-13 16:41:26,663 basehttp 124 "GET /meiduo_admin/goods/simple/ HTTP/1.1" 200 126
+INFO 2019-09-13 16:41:26,723 basehttp 124 "GET /meiduo_admin/skus/categories/ HTTP/1.1" 200 55407
+INFO 2019-09-13 16:41:26,746 basehttp 124 "GET /meiduo_admin/skus/?page=1&pagesize=10&keyword= HTTP/1.1" 200 6557
+INFO 2019-09-13 16:41:34,288 basehttp 124 "GET /meiduo_admin/skus/images/?page=1&pagesize=10 HTTP/1.1" 200 1984
+INFO 2019-09-13 16:41:34,311 basehttp 124 "GET /meiduo_admin/skus/simple/ HTTP/1.1" 200 1466
+INFO 2019-09-13 16:41:34,332 basehttp 124 "GET /meiduo_admin/skus/simple/ HTTP/1.1" 200 1466
+INFO 2019-09-13 16:41:42,148 basehttp 124 "GET /meiduo_admin/skus/simple/ HTTP/1.1" 200 1466
+INFO 2019-09-13 16:41:42,201 basehttp 124 "GET /meiduo_admin/skus/simple/ HTTP/1.1" 200 1466
+INFO 2019-09-13 16:41:42,222 basehttp 124 "GET /meiduo_admin/skus/images/?page=1&pagesize=10 HTTP/1.1" 200 1984
+INFO 2019-09-13 16:41:42,636 basehttp 124 "GET / HTTP/1.1" 200 109893
+INFO 2019-09-13 16:41:42,725 basehttp 124 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2019-09-13 16:41:42,728 basehttp 124 "GET /static/js/host.js HTTP/1.1" 200 80
+INFO 2019-09-13 16:41:42,731 basehttp 124 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2019-09-13 16:41:42,744 basehttp 124 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO 2019-09-13 16:41:42,745 basehttp 124 "GET /static/css/main.css HTTP/1.1" 200 39968
+INFO 2019-09-13 16:41:42,752 basehttp 124 "GET /static/images/logo.png HTTP/1.1" 200 7450
+INFO 2019-09-13 16:41:42,763 basehttp 124 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2019-09-13 16:41:42,785 basehttp 124 "GET /static/js/slide.js HTTP/1.1" 200 1822
+INFO 2019-09-13 16:41:42,831 basehttp 124 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2019-09-13 16:41:42,838 basehttp 124 "GET /static/js/index.js HTTP/1.1" 200 1829
+INFO 2019-09-13 16:41:42,851 basehttp 124 "GET /static/images/adv01.jpg HTTP/1.1" 200 39831
+INFO 2019-09-13 16:41:42,904 basehttp 124 "GET /static/images/icons.png HTTP/1.1" 200 7740
+INFO 2019-09-13 16:41:43,131 basehttp 124 "GET /carts/simple/ HTTP/1.1" 200 17
+WARNING 2019-09-13 16:42:26,572 base 152 Not Found: /favicon.ico
+WARNING 2019-09-13 16:42:26,573 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 9977
+INFO 2019-09-13 16:59:22,514 basehttp 124 "GET / HTTP/1.1" 200 109893
+INFO 2019-09-13 16:59:23,412 basehttp 124 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2019-09-13 16:59:23,429 basehttp 124 "GET /static/js/host.js HTTP/1.1" 200 80
+INFO 2019-09-13 16:59:23,454 basehttp 124 "GET /static/css/main.css HTTP/1.1" 200 39968
+INFO 2019-09-13 16:59:23,457 basehttp 124 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2019-09-13 16:59:23,470 basehttp 124 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2019-09-13 16:59:23,480 basehttp 124 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO 2019-09-13 16:59:23,501 basehttp 124 "GET /static/images/logo.png HTTP/1.1" 200 7450
+INFO 2019-09-13 16:59:23,539 basehttp 124 "GET /static/js/slide.js HTTP/1.1" 200 1822
+INFO 2019-09-13 16:59:23,638 basehttp 124 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2019-09-13 16:59:23,648 basehttp 124 "GET /static/js/index.js HTTP/1.1" 200 1829
+INFO 2019-09-13 16:59:23,658 basehttp 124 "GET /static/images/adv01.jpg HTTP/1.1" 200 39831
+INFO 2019-09-13 16:59:23,679 basehttp 124 "GET /static/images/icons.png HTTP/1.1" 200 7740
+INFO 2019-09-13 16:59:24,025 basehttp 124 "GET /carts/simple/ HTTP/1.1" 200 17
+INFO 2019-09-13 16:59:34,853 basehttp 124 "GET /meiduo_admin/skus/simple/ HTTP/1.1" 200 1466
+INFO 2019-09-13 16:59:34,854 basehttp 124 "GET /meiduo_admin/skus/images/?page=1&pagesize=10 HTTP/1.1" 200 1984
+INFO 2019-09-13 16:59:34,916 basehttp 124 "GET /meiduo_admin/skus/simple/ HTTP/1.1" 200 1466
+WARNING 2019-09-13 17:00:08,140 base 152 Not Found: /favicon.ico
+WARNING 2019-09-13 17:00:08,142 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 9977
+INFO 2019-09-17 11:26:52,120 basehttp 124 "GET / HTTP/1.1" 200 109893
+INFO 2019-09-17 11:26:52,246 basehttp 124 "GET /static/css/reset.css HTTP/1.1" 304 0
+INFO 2019-09-17 11:26:52,263 basehttp 124 "GET /static/css/main.css HTTP/1.1" 304 0
+INFO 2019-09-17 11:26:52,265 basehttp 124 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2019-09-17 11:26:52,281 basehttp 124 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 304 0
+INFO 2019-09-17 11:26:52,296 basehttp 124 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2019-09-17 11:26:52,303 basehttp 124 "GET /static/js/host.js HTTP/1.1" 304 0
+INFO 2019-09-17 11:26:52,322 basehttp 124 "GET /static/images/logo.png HTTP/1.1" 304 0
+INFO 2019-09-17 11:26:52,338 basehttp 124 "GET /static/js/slide.js HTTP/1.1" 304 0
+INFO 2019-09-17 11:26:52,399 basehttp 124 "GET /static/js/common.js HTTP/1.1" 304 0
+INFO 2019-09-17 11:26:52,441 basehttp 124 "GET /static/js/index.js HTTP/1.1" 304 0
+INFO 2019-09-17 11:26:52,454 basehttp 124 "GET /static/images/adv01.jpg HTTP/1.1" 304 0
+INFO 2019-09-17 11:26:52,608 basehttp 124 "GET /static/images/icons.png HTTP/1.1" 304 0
+INFO 2019-09-17 11:26:53,042 basehttp 124 "GET /carts/simple/ HTTP/1.1" 200 17
+WARNING 2019-09-17 11:27:32,293 base 152 Not Found: /favicon.ico
+WARNING 2019-09-17 11:27:32,295 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 9977
+INFO 2019-09-17 11:29:51,361 basehttp 124 "GET /info/ HTTP/1.1" 302 0
+INFO 2019-09-17 11:29:51,472 basehttp 124 "GET /login/?next=/info/ HTTP/1.1" 200 3711
+INFO 2019-09-17 11:29:51,514 basehttp 124 "GET /static/images/logo02.png HTTP/1.1" 200 8466
+INFO 2019-09-17 11:29:51,521 basehttp 124 "GET /static/js/login.js HTTP/1.1" 200 2255
+INFO 2019-09-17 11:29:51,596 basehttp 124 "GET /static/images/icons02.png HTTP/1.1" 200 3935
+INFO 2019-09-17 11:29:51,607 basehttp 124 "GET /static/images/login_banner.png HTTP/1.1" 200 319312
+INFO 2019-09-17 11:29:51,618 basehttp 124 "GET /static/images/QQ-weixin.png HTTP/1.1" 200 1816
+WARNING 2019-09-17 11:29:51,619 basehttp 124 "GET /static/images/Weibo.ico HTTP/1.1" 404 1667
+INFO 2019-09-17 11:30:02,607 basehttp 124 "POST /login/?next=/info/ HTTP/1.1" 302 0
+INFO 2019-09-17 11:30:02,880 basehttp 124 "GET / HTTP/1.1" 200 109893
+INFO 2019-09-17 11:30:03,416 basehttp 124 "GET /carts/simple/ HTTP/1.1" 200 17
+INFO 2019-09-17 11:30:06,083 basehttp 124 "GET /info/ HTTP/1.1" 302 0
+INFO 2019-09-17 11:30:06,095 basehttp 124 "GET /login/?next=/info/ HTTP/1.1" 200 3711
+WARNING 2019-09-17 11:30:06,178 basehttp 124 "GET /static/images/Weibo.ico HTTP/1.1" 404 1667
+WARNING 2019-09-17 11:30:15,317 basehttp 124 "POST /login/?next=/info/ HTTP/1.1" 403 27
+INFO 2019-09-17 11:30:25,110 basehttp 124 "POST /login/?next=/info/ HTTP/1.1" 302 0
+INFO 2019-09-17 11:30:25,321 basehttp 124 "GET / HTTP/1.1" 200 109893
+INFO 2019-09-17 11:30:25,659 basehttp 124 "GET /carts/simple/ HTTP/1.1" 200 17
+INFO 2019-09-17 11:30:28,570 basehttp 124 "GET /info/ HTTP/1.1" 302 0
+INFO 2019-09-17 11:30:28,580 basehttp 124 "GET /login/?next=/info/ HTTP/1.1" 200 3711
+INFO 2019-09-17 11:33:32,804 basehttp 124 "POST /login/?next=/info/ HTTP/1.1" 302 0
+INFO 2019-09-17 11:33:33,048 basehttp 124 "GET / HTTP/1.1" 200 109893
+INFO 2019-09-17 11:33:33,546 basehttp 124 "GET /carts/simple/ HTTP/1.1" 200 17
+INFO 2019-09-17 11:33:36,220 basehttp 124 "GET /info/ HTTP/1.1" 302 0
+INFO 2019-09-17 11:33:36,243 basehttp 124 "GET /login/?next=/info/ HTTP/1.1" 200 3711
+WARNING 2019-09-17 11:33:36,366 basehttp 124 "GET /static/images/Weibo.ico HTTP/1.1" 404 1667
+INFO 2019-09-17 11:33:56,150 basehttp 124 "POST /login/?next=/info/ HTTP/1.1" 302 0
+INFO 2019-09-17 11:33:56,372 basehttp 124 "GET / HTTP/1.1" 200 109893
+INFO 2019-09-17 11:33:56,690 basehttp 124 "GET /carts/simple/ HTTP/1.1" 200 17
+INFO 2019-09-17 11:34:14,573 basehttp 124 "GET / HTTP/1.1" 200 109893
+INFO 2019-09-17 11:34:15,023 basehttp 124 "GET /carts/simple/ HTTP/1.1" 200 17
+INFO 2019-09-17 11:34:17,086 basehttp 124 "GET /login/ HTTP/1.1" 200 3711
+INFO 2019-09-17 11:34:19,966 basehttp 124 "POST /login/ HTTP/1.1" 302 0
+INFO 2019-09-17 11:34:20,191 basehttp 124 "GET / HTTP/1.1" 200 109893
+INFO 2019-09-17 11:34:20,485 basehttp 124 "GET /carts/simple/ HTTP/1.1" 200 17
+INFO 2019-09-17 11:34:22,233 basehttp 124 "GET /info/ HTTP/1.1" 200 5717
+INFO 2019-09-17 11:34:22,328 basehttp 124 "GET /static/js/user_center_info.js HTTP/1.1" 200 3205
+INFO 2019-09-17 11:34:22,339 basehttp 124 "GET /static/images/left_bg.jpg HTTP/1.1" 200 1367
+INFO 2019-09-17 11:34:22,339 basehttp 124 "GET /static/images/shop_cart.png HTTP/1.1" 200 1317
+INFO 2019-09-17 11:34:22,471 basehttp 124 "GET /browse_histories/ HTTP/1.1" 200 1435
+INFO 2019-09-17 11:34:57,384 basehttp 124 "GET /info/ HTTP/1.1" 200 5717
+INFO 2019-09-17 11:34:57,519 basehttp 124 "GET /browse_histories/ HTTP/1.1" 200 1435
+INFO 2019-09-17 11:35:01,745 basehttp 124 "GET /info/ HTTP/1.1" 200 5717
+INFO 2019-09-17 11:35:01,866 basehttp 124 "GET /browse_histories/ HTTP/1.1" 200 1435
+WARNING 2019-09-17 11:35:31,869 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+INFO 2019-09-17 11:36:41,002 basehttp 124 "GET /addresses/ HTTP/1.1" 200 8595
+INFO 2019-09-17 11:36:41,087 basehttp 124 "GET /static/js/host.js HTTP/1.1" 200 80
+INFO 2019-09-17 11:36:41,107 basehttp 124 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2019-09-17 11:36:41,108 basehttp 124 "GET /static/css/main.css HTTP/1.1" 200 39968
+INFO 2019-09-17 11:36:41,129 basehttp 124 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2019-09-17 11:36:41,151 basehttp 124 "GET /static/images/logo.png HTTP/1.1" 200 7450
+INFO 2019-09-17 11:36:41,156 basehttp 124 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2019-09-17 11:36:41,169 basehttp 124 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2019-09-17 11:36:41,177 basehttp 124 "GET /static/js/user_center_site.js HTTP/1.1" 200 13616
+INFO 2019-09-17 11:36:41,288 basehttp 124 "GET /static/images/left_bg.jpg HTTP/1.1" 200 1367
+INFO 2019-09-17 11:36:41,305 basehttp 124 "GET /static/images/icons.png HTTP/1.1" 200 7740
+INFO 2019-09-17 11:36:41,318 basehttp 124 "GET /static/images/edit.png HTTP/1.1" 200 1244
+WARNING 2019-09-17 11:36:41,329 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+INFO 2019-09-17 11:36:41,585 basehttp 124 "GET /areas/ HTTP/1.1" 200 1758
+WARNING 2019-09-17 11:36:43,348 basehttp 124 "GET /static/user_center_order.html HTTP/1.1" 404 1685
+INFO 2019-09-17 11:36:45,639 basehttp 124 "GET /addresses/ HTTP/1.1" 200 8595
+INFO 2019-09-17 11:36:45,679 basehttp 124 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2019-09-17 11:36:45,708 basehttp 124 "GET /static/css/main.css HTTP/1.1" 200 39968
+INFO 2019-09-17 11:36:45,725 basehttp 124 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2019-09-17 11:36:45,734 basehttp 124 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2019-09-17 11:36:45,739 basehttp 124 "GET /static/images/logo.png HTTP/1.1" 200 7450
+INFO 2019-09-17 11:36:45,748 basehttp 124 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2019-09-17 11:36:45,749 basehttp 124 "GET /static/js/host.js HTTP/1.1" 200 80
+INFO 2019-09-17 11:36:45,835 basehttp 124 "GET /static/js/user_center_site.js HTTP/1.1" 200 13616
+WARNING 2019-09-17 11:36:45,853 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+INFO 2019-09-17 11:36:45,858 basehttp 124 "GET /static/images/icons.png HTTP/1.1" 200 7740
+INFO 2019-09-17 11:36:45,881 basehttp 124 "GET /static/images/left_bg.jpg HTTP/1.1" 200 1367
+INFO 2019-09-17 11:36:45,883 basehttp 124 "GET /static/images/edit.png HTTP/1.1" 200 1244
+INFO 2019-09-17 11:36:46,137 basehttp 124 "GET /areas/ HTTP/1.1" 200 1758
+INFO 2019-09-17 11:36:48,510 basehttp 124 "GET /password/ HTTP/1.1" 200 5185
+INFO 2019-09-17 11:36:48,545 basehttp 124 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2019-09-17 11:36:48,582 basehttp 124 "GET /static/css/main.css HTTP/1.1" 200 39968
+INFO 2019-09-17 11:36:48,587 basehttp 124 "GET /static/js/host.js HTTP/1.1" 200 80
+INFO 2019-09-17 11:36:48,607 basehttp 124 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2019-09-17 11:36:48,616 basehttp 124 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2019-09-17 11:36:48,624 basehttp 124 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2019-09-17 11:36:48,653 basehttp 124 "GET /static/images/logo.png HTTP/1.1" 200 7450
+INFO 2019-09-17 11:36:48,678 basehttp 124 "GET /static/js/user_center_pass.js HTTP/1.1" 200 1493
+INFO 2019-09-17 11:36:48,696 basehttp 124 "GET /static/images/icons.png HTTP/1.1" 200 7740
+INFO 2019-09-17 11:36:48,705 basehttp 124 "GET /static/images/left_bg.jpg HTTP/1.1" 200 1367
+WARNING 2019-09-17 11:36:48,773 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+INFO 2019-09-17 11:36:56,176 basehttp 124 "GET /info/ HTTP/1.1" 200 5717
+INFO 2019-09-17 11:36:56,229 basehttp 124 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2019-09-17 11:36:56,245 basehttp 124 "GET /static/css/main.css HTTP/1.1" 200 39968
+INFO 2019-09-17 11:36:56,264 basehttp 124 "GET /static/js/host.js HTTP/1.1" 200 80
+INFO 2019-09-17 11:36:56,313 basehttp 124 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2019-09-17 11:36:56,318 basehttp 124 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2019-09-17 11:36:56,336 basehttp 124 "GET /static/images/logo.png HTTP/1.1" 200 7450
+INFO 2019-09-17 11:36:56,339 basehttp 124 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2019-09-17 11:36:56,365 basehttp 124 "GET /static/js/user_center_info.js HTTP/1.1" 200 3205
+WARNING 2019-09-17 11:36:56,404 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+INFO 2019-09-17 11:36:56,434 basehttp 124 "GET /static/images/icons.png HTTP/1.1" 200 7740
+INFO 2019-09-17 11:36:56,457 basehttp 124 "GET /static/images/left_bg.jpg HTTP/1.1" 200 1367
+INFO 2019-09-17 11:36:56,477 basehttp 124 "GET /static/images/shop_cart.png HTTP/1.1" 200 1317
+INFO 2019-09-17 11:36:56,641 basehttp 124 "GET /browse_histories/ HTTP/1.1" 200 1435
+INFO 2019-09-17 11:36:58,398 basehttp 124 "GET /addresses/ HTTP/1.1" 200 8595
+INFO 2019-09-17 11:36:58,434 basehttp 124 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2019-09-17 11:36:58,447 basehttp 124 "GET /static/css/main.css HTTP/1.1" 200 39968
+INFO 2019-09-17 11:36:58,458 basehttp 124 "GET /static/js/host.js HTTP/1.1" 200 80
+INFO 2019-09-17 11:36:58,479 basehttp 124 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2019-09-17 11:36:58,486 basehttp 124 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2019-09-17 11:36:58,493 basehttp 124 "GET /static/images/logo.png HTTP/1.1" 200 7450
+INFO 2019-09-17 11:36:58,496 basehttp 124 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2019-09-17 11:36:58,553 basehttp 124 "GET /static/js/user_center_site.js HTTP/1.1" 200 13616
+INFO 2019-09-17 11:36:58,581 basehttp 124 "GET /static/images/icons.png HTTP/1.1" 200 7740
+INFO 2019-09-17 11:36:58,590 basehttp 124 "GET /static/images/left_bg.jpg HTTP/1.1" 200 1367
+INFO 2019-09-17 11:36:58,601 basehttp 124 "GET /static/images/edit.png HTTP/1.1" 200 1244
+WARNING 2019-09-17 11:36:58,611 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+INFO 2019-09-17 11:36:58,734 basehttp 124 "GET /areas/ HTTP/1.1" 200 1758
+WARNING 2019-09-17 11:37:00,175 basehttp 124 "GET /static/user_center_order.html HTTP/1.1" 404 1685
+INFO 2019-09-17 11:39:52,679 basehttp 124 "GET /addresses/ HTTP/1.1" 200 8595
+INFO 2019-09-17 11:39:52,719 basehttp 124 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2019-09-17 11:39:52,729 basehttp 124 "GET /static/css/main.css HTTP/1.1" 200 39968
+INFO 2019-09-17 11:39:52,751 basehttp 124 "GET /static/js/host.js HTTP/1.1" 200 80
+INFO 2019-09-17 11:39:52,757 basehttp 124 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2019-09-17 11:39:52,801 basehttp 124 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2019-09-17 11:39:52,811 basehttp 124 "GET /static/images/logo.png HTTP/1.1" 200 7450
+INFO 2019-09-17 11:39:52,817 basehttp 124 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2019-09-17 11:39:52,839 basehttp 124 "GET /static/js/user_center_site.js HTTP/1.1" 200 13616
+WARNING 2019-09-17 11:39:52,885 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+INFO 2019-09-17 11:39:52,904 basehttp 124 "GET /static/images/icons.png HTTP/1.1" 200 7740
+INFO 2019-09-17 11:39:52,913 basehttp 124 "GET /static/images/left_bg.jpg HTTP/1.1" 200 1367
+INFO 2019-09-17 11:39:52,920 basehttp 124 "GET /static/images/edit.png HTTP/1.1" 200 1244
+INFO 2019-09-17 11:39:53,040 basehttp 124 "GET /areas/ HTTP/1.1" 200 1758
+INFO 2019-09-17 11:39:56,584 basehttp 124 "GET /info/ HTTP/1.1" 200 5717
+INFO 2019-09-17 11:39:56,644 basehttp 124 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2019-09-17 11:39:56,660 basehttp 124 "GET /static/css/main.css HTTP/1.1" 200 39968
+INFO 2019-09-17 11:39:56,668 basehttp 124 "GET /static/js/host.js HTTP/1.1" 200 80
+INFO 2019-09-17 11:39:56,672 basehttp 124 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2019-09-17 11:39:56,698 basehttp 124 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2019-09-17 11:39:56,786 basehttp 124 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2019-09-17 11:39:56,786 basehttp 124 "GET /static/js/user_center_info.js HTTP/1.1" 200 3205
+INFO 2019-09-17 11:39:56,786 basehttp 124 "GET /static/images/logo.png HTTP/1.1" 200 7450
+INFO 2019-09-17 11:39:56,790 basehttp 124 "GET /static/images/icons.png HTTP/1.1" 200 7740
+INFO 2019-09-17 11:39:56,802 basehttp 124 "GET /static/images/left_bg.jpg HTTP/1.1" 200 1367
+INFO 2019-09-17 11:39:56,812 basehttp 124 "GET /static/images/shop_cart.png HTTP/1.1" 200 1317
+WARNING 2019-09-17 11:39:56,858 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+INFO 2019-09-17 11:39:56,951 basehttp 124 "GET /browse_histories/ HTTP/1.1" 200 1435
+INFO 2019-09-17 11:45:06,102 basehttp 124 "GET /orders/info/1 HTTP/1.1" 301 0
+INFO 2019-09-17 11:45:06,316 basehttp 124 "GET /orders/info/1/ HTTP/1.1" 200 10989
+INFO 2019-09-17 11:45:06,379 basehttp 124 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2019-09-17 11:45:06,383 basehttp 124 "GET /static/css/jquery.pagination.css HTTP/1.1" 200 523
+INFO 2019-09-17 11:45:06,416 basehttp 124 "GET /static/js/host.js HTTP/1.1" 200 80
+INFO 2019-09-17 11:45:06,431 basehttp 124 "GET /static/css/main.css HTTP/1.1" 200 39968
+INFO 2019-09-17 11:45:06,457 basehttp 124 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2019-09-17 11:45:06,468 basehttp 124 "GET /static/images/logo.png HTTP/1.1" 200 7450
+INFO 2019-09-17 11:45:06,472 basehttp 124 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2019-09-17 11:45:06,474 basehttp 124 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO 2019-09-17 11:45:06,517 basehttp 124 "GET /static/js/jquery.pagination.min.js HTTP/1.1" 200 2935
+INFO 2019-09-17 11:45:06,583 basehttp 124 "GET /static/js/user_center_order.js HTTP/1.1" 200 2046
+WARNING 2019-09-17 11:45:06,599 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+INFO 2019-09-17 11:45:06,626 basehttp 124 "GET /static/images/icons.png HTTP/1.1" 200 7740
+INFO 2019-09-17 11:45:06,649 basehttp 124 "GET /static/images/left_bg.jpg HTTP/1.1" 200 1367
+INFO 2019-09-17 11:45:22,051 basehttp 124 "GET /orders/info/1/ HTTP/1.1" 200 10989
+INFO 2019-09-17 11:45:26,290 basehttp 124 "GET /addresses/ HTTP/1.1" 200 8595
+INFO 2019-09-17 11:45:26,402 basehttp 124 "GET /areas/ HTTP/1.1" 200 1758
+WARNING 2019-09-17 11:45:27,309 basehttp 124 "GET /static/user_center_order.html HTTP/1.1" 404 1685
+INFO 2019-09-17 11:45:29,906 basehttp 124 "GET /info/ HTTP/1.1" 200 5717
+INFO 2019-09-17 11:45:30,001 basehttp 124 "GET /browse_histories/ HTTP/1.1" 200 1435
+INFO 2019-09-17 11:45:36,643 basehttp 124 "GET /addresses/ HTTP/1.1" 200 8595
+INFO 2019-09-17 11:45:36,737 basehttp 124 "GET /areas/ HTTP/1.1" 200 1758
+INFO 2019-09-17 11:45:37,487 basehttp 124 "GET /info/ HTTP/1.1" 200 5717
+INFO 2019-09-17 11:45:37,608 basehttp 124 "GET /browse_histories/ HTTP/1.1" 200 1435
+INFO 2019-09-17 11:45:40,733 basehttp 124 "GET /orders/info/1/ HTTP/1.1" 200 10989
+WARNING 2019-09-17 11:45:42,108 base 152 Not Found: /orders/info/1/user_center_info.html
+WARNING 2019-09-17 11:45:42,108 basehttp 124 "GET /orders/info/1/user_center_info.html HTTP/1.1" 404 10049
+WARNING 2019-09-17 11:45:44,725 base 152 Not Found: /orders/info/1/user_center_info.html
+WARNING 2019-09-17 11:45:44,726 basehttp 124 "GET /orders/info/1/user_center_info.html HTTP/1.1" 404 10049
+INFO 2019-09-17 14:40:52,765 basehttp 124 "OPTIONS /meiduo_admin/authorizations/ HTTP/1.1" 200 0
+INFO 2019-09-17 14:40:53,383 basehttp 124 "POST /meiduo_admin/authorizations/ HTTP/1.1" 200 203
+INFO 2019-09-17 14:40:53,567 basehttp 124 "OPTIONS /meiduo_admin/statistical/total_count/ HTTP/1.1" 200 0
+INFO 2019-09-17 14:40:53,581 basehttp 124 "OPTIONS /meiduo_admin/statistical/day_increment/ HTTP/1.1" 200 0
+INFO 2019-09-17 14:40:53,584 basehttp 124 "OPTIONS /meiduo_admin/statistical/day_active/ HTTP/1.1" 200 0
+INFO 2019-09-17 14:40:53,592 basehttp 124 "OPTIONS /meiduo_admin/statistical/day_orders/ HTTP/1.1" 200 0
+INFO 2019-09-17 14:40:53,613 basehttp 124 "OPTIONS /meiduo_admin/statistical/day_active/ HTTP/1.1" 200 0
+INFO 2019-09-17 14:40:53,629 basehttp 124 "OPTIONS /meiduo_admin/statistical/day_orders/ HTTP/1.1" 200 0
+INFO 2019-09-17 14:40:53,643 basehttp 124 "OPTIONS /meiduo_admin/statistical/goods_day_views/ HTTP/1.1" 200 0
+INFO 2019-09-17 14:40:53,652 basehttp 124 "OPTIONS /meiduo_admin/statistical/month_increment/ HTTP/1.1" 200 0
+INFO 2019-09-17 14:40:53,780 basehttp 124 "GET /meiduo_admin/statistical/total_count/ HTTP/1.1" 200 11
+INFO 2019-09-17 14:40:53,784 basehttp 124 "GET /meiduo_admin/statistical/day_increment/ HTTP/1.1" 200 11
+INFO 2019-09-17 14:40:53,794 basehttp 124 "GET /meiduo_admin/statistical/day_active/ HTTP/1.1" 200 11
+INFO 2019-09-17 14:40:53,836 basehttp 124 "GET /meiduo_admin/statistical/goods_day_views/ HTTP/1.1" 200 2
+INFO 2019-09-17 14:40:53,847 basehttp 124 "GET /meiduo_admin/statistical/day_orders/ HTTP/1.1" 200 13
+INFO 2019-09-17 14:40:53,881 basehttp 124 "GET /meiduo_admin/statistical/day_active/ HTTP/1.1" 200 11
+INFO 2019-09-17 14:40:53,921 basehttp 124 "GET /meiduo_admin/statistical/day_orders/ HTTP/1.1" 200 13
+INFO 2019-09-17 14:40:53,945 basehttp 124 "GET /meiduo_admin/statistical/month_increment/ HTTP/1.1" 200 961
+INFO 2019-09-17 14:41:07,672 basehttp 124 "OPTIONS /meiduo_admin/users/?page=1&pagesize=10&keyword= HTTP/1.1" 200 0
+INFO 2019-09-17 14:41:07,798 basehttp 124 "GET /meiduo_admin/users/?page=1&pagesize=10&keyword= HTTP/1.1" 200 411
+INFO 2019-09-17 14:41:10,586 basehttp 124 "OPTIONS /meiduo_admin/orders/?page=1&pagesize=10&keyword= HTTP/1.1" 200 0
+WARNING 2019-09-17 14:41:10,592 basehttp 124 "GET /meiduo_admin/orders/?page=1&pagesize=10&keyword= HTTP/1.1" 401 35
+INFO 2019-09-17 14:41:13,303 basehttp 124 "GET /meiduo_admin/users/?page=1&pagesize=10&keyword= HTTP/1.1" 200 411
+INFO 2019-09-17 14:45:08,079 basehttp 124 "OPTIONS /meiduo_admin/skus/simple/ HTTP/1.1" 200 0
+INFO 2019-09-17 14:45:08,084 basehttp 124 "OPTIONS /meiduo_admin/skus/simple/ HTTP/1.1" 200 0
+WARNING 2019-09-17 14:45:08,089 basehttp 124 "GET /meiduo_admin/skus/simple/ HTTP/1.1" 401 35
+INFO 2019-09-17 14:45:08,094 basehttp 124 "OPTIONS /meiduo_admin/skus/images/?page=1&pagesize=10 HTTP/1.1" 200 0
+WARNING 2019-09-17 14:45:08,102 basehttp 124 "GET /meiduo_admin/skus/simple/ HTTP/1.1" 401 35
+INFO 2019-09-17 14:45:08,623 basehttp 124 "GET /meiduo_admin/skus/images/?page=1&pagesize=10 HTTP/1.1" 200 1984
+WARNING 2019-09-17 14:45:10,227 basehttp 124 "GET /meiduo_admin/orders/?page=1&pagesize=10&keyword= HTTP/1.1" 401 35
+INFO 2019-09-17 14:45:15,369 basehttp 124 "GET /meiduo_admin/orders/?page=1&pagesize=10&keyword= HTTP/1.1" 200 1424
+INFO 2019-09-17 19:57:42,084 basehttp 124 "OPTIONS /meiduo_admin/statistical/total_count/ HTTP/1.1" 200 0
+INFO 2019-09-17 19:57:42,092 basehttp 124 "OPTIONS /meiduo_admin/statistical/day_increment/ HTTP/1.1" 200 0
+INFO 2019-09-17 19:57:42,095 basehttp 124 "OPTIONS /meiduo_admin/statistical/day_active/ HTTP/1.1" 200 0
+INFO 2019-09-17 19:57:42,098 basehttp 124 "OPTIONS /meiduo_admin/statistical/day_orders/ HTTP/1.1" 200 0
+INFO 2019-09-17 19:57:42,104 basehttp 124 "OPTIONS /meiduo_admin/statistical/month_increment/ HTTP/1.1" 200 0
+INFO 2019-09-17 19:57:42,107 basehttp 124 "OPTIONS /meiduo_admin/statistical/day_active/ HTTP/1.1" 200 0
+INFO 2019-09-17 19:57:42,122 basehttp 124 "OPTIONS /meiduo_admin/statistical/day_orders/ HTTP/1.1" 200 0
+INFO 2019-09-17 19:57:42,127 basehttp 124 "OPTIONS /meiduo_admin/statistical/goods_day_views/ HTTP/1.1" 200 0
+INFO 2019-09-17 19:57:43,123 basehttp 124 "GET /meiduo_admin/statistical/day_active/ HTTP/1.1" 200 11
+INFO 2019-09-17 19:57:43,129 basehttp 124 "GET /meiduo_admin/statistical/day_orders/ HTTP/1.1" 200 13
+INFO 2019-09-17 19:57:43,137 basehttp 124 "GET /meiduo_admin/statistical/total_count/ HTTP/1.1" 200 11
+INFO 2019-09-17 19:57:43,150 basehttp 124 "GET /meiduo_admin/statistical/day_increment/ HTTP/1.1" 200 11
+INFO 2019-09-17 19:57:43,166 basehttp 124 "GET /meiduo_admin/statistical/goods_day_views/ HTTP/1.1" 200 2
+INFO 2019-09-17 19:57:43,338 basehttp 124 "GET /meiduo_admin/statistical/day_orders/ HTTP/1.1" 200 13
+INFO 2019-09-17 19:57:43,346 basehttp 124 "GET /meiduo_admin/statistical/day_active/ HTTP/1.1" 200 11
+INFO 2019-09-17 19:57:43,353 basehttp 124 "GET /meiduo_admin/statistical/month_increment/ HTTP/1.1" 200 961
+INFO 2019-09-17 19:59:30,617 basehttp 124 "OPTIONS /meiduo_admin/users/?page=1&pagesize=10&keyword= HTTP/1.1" 200 0
+INFO 2019-09-17 19:59:30,769 basehttp 124 "GET /meiduo_admin/users/?page=1&pagesize=10&keyword= HTTP/1.1" 200 411
+INFO 2019-09-17 19:59:32,945 basehttp 124 "OPTIONS /meiduo_admin/skus/categories/ HTTP/1.1" 200 0
+INFO 2019-09-17 19:59:32,964 basehttp 124 "OPTIONS /meiduo_admin/goods/simple/ HTTP/1.1" 200 0
+INFO 2019-09-17 19:59:32,973 basehttp 124 "OPTIONS /meiduo_admin/goods/simple/ HTTP/1.1" 200 0
+INFO 2019-09-17 19:59:32,982 basehttp 124 "OPTIONS /meiduo_admin/skus/?page=1&pagesize=10&keyword= HTTP/1.1" 200 0
+INFO 2019-09-17 19:59:33,135 basehttp 124 "GET /meiduo_admin/goods/simple/ HTTP/1.1" 200 126
+INFO 2019-09-17 19:59:33,246 basehttp 124 "GET /meiduo_admin/skus/categories/ HTTP/1.1" 200 55407
+INFO 2019-09-17 19:59:33,251 basehttp 124 "GET /meiduo_admin/goods/simple/ HTTP/1.1" 200 126
+INFO 2019-09-17 19:59:33,410 basehttp 124 "GET /meiduo_admin/skus/categories/ HTTP/1.1" 200 55407
+INFO 2019-09-17 19:59:33,447 basehttp 124 "GET /meiduo_admin/skus/?page=1&pagesize=10&keyword= HTTP/1.1" 200 6557
+INFO 2019-09-17 19:59:33,713 basehttp 124 "OPTIONS /meiduo_admin/goods/?page=1&pagesize=10 HTTP/1.1" 200 0
+INFO 2019-09-17 19:59:33,784 basehttp 124 "GET /meiduo_admin/goods/?page=1&pagesize=10 HTTP/1.1" 200 11072
+INFO 2019-09-17 19:59:34,191 basehttp 124 "OPTIONS /meiduo_admin/goods/specs/?page=1&pagesize=10 HTTP/1.1" 200 0
+INFO 2019-09-17 19:59:34,216 basehttp 124 "GET /meiduo_admin/goods/simple/ HTTP/1.1" 200 126
+INFO 2019-09-17 19:59:34,256 basehttp 124 "GET /meiduo_admin/goods/specs/?page=1&pagesize=10 HTTP/1.1" 200 1116
+INFO 2019-09-17 19:59:34,263 basehttp 124 "GET /meiduo_admin/goods/simple/ HTTP/1.1" 200 126
+INFO 2019-09-17 19:59:34,635 basehttp 124 "OPTIONS /meiduo_admin/goods/specs/simple/ HTTP/1.1" 200 0
+INFO 2019-09-17 19:59:34,637 basehttp 124 "OPTIONS /meiduo_admin/goods/specs/simple/ HTTP/1.1" 200 0
+INFO 2019-09-17 19:59:34,640 basehttp 124 "OPTIONS /meiduo_admin/specs/options/?page=1&pagesize=10 HTTP/1.1" 200 0
+ERROR 2019-09-17 19:59:34,813 exception 135 Internal Server Error: /meiduo_admin/goods/specs/simple/
+Traceback (most recent call last):
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/rest_framework/views.py", line 483, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/rest_framework/views.py", line 443, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/rest_framework/views.py", line 480, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/rest_framework/generics.py", line 201, in get
+    return self.list(request, *args, **kwargs)
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/rest_framework/mixins.py", line 48, in list
+    return Response(serializer.data)
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/rest_framework/serializers.py", line 767, in data
+    ret = super(ListSerializer, self).data
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/rest_framework/serializers.py", line 262, in data
+    self._data = self.to_representation(self.instance)
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/rest_framework/serializers.py", line 685, in to_representation
+    self.child.to_representation(item) for item in iterable
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/rest_framework/serializers.py", line 685, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/rest_framework/serializers.py", line 512, in to_representation
+    fields = self._readable_fields
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/rest_framework/serializers.py", line 378, in _readable_fields
+    field for field in self.fields.values()
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/rest_framework/serializers.py", line 363, in fields
+    for key, value in self.get_fields().items():
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/rest_framework/serializers.py", line 1004, in get_fields
+    serializer_class=self.__class__.__name__
+AssertionError: Class SpecSimpleSerializer missing "Meta.model" attribute
+INFO 2019-09-17 19:59:34,860 basehttp 124 "GET /meiduo_admin/specs/options/?page=1&pagesize=10 HTTP/1.1" 200 1786
+INFO 2019-09-17 19:59:35,063 basehttp 124 "OPTIONS /meiduo_admin/goods/channel_types/ HTTP/1.1" 200 0
+INFO 2019-09-17 19:59:35,083 basehttp 124 "OPTIONS /meiduo_admin/goods/channel_types/ HTTP/1.1" 200 0
+INFO 2019-09-17 19:59:35,102 basehttp 124 "OPTIONS /meiduo_admin/goods/categories/ HTTP/1.1" 200 0
+INFO 2019-09-17 19:59:35,103 basehttp 124 "OPTIONS /meiduo_admin/goods/categories/ HTTP/1.1" 200 0
+ERROR 2019-09-17 19:59:35,111 basehttp 124 "GET /meiduo_admin/goods/specs/simple/ HTTP/1.1" 500 23903
+INFO 2019-09-17 19:59:35,128 basehttp 124 "OPTIONS /meiduo_admin/goods/channels/?page=1&pagesize=10 HTTP/1.1" 200 0
+INFO 2019-09-17 19:59:35,147 basehttp 124 "GET /meiduo_admin/goods/channel_types/ HTTP/1.1" 200 1290
+INFO 2019-09-17 19:59:35,200 basehttp 124 "GET /meiduo_admin/goods/categories/ HTTP/1.1" 200 975
+ERROR 2019-09-17 19:59:35,248 exception 135 Internal Server Error: /meiduo_admin/goods/specs/simple/
+Traceback (most recent call last):
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/rest_framework/views.py", line 483, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/rest_framework/views.py", line 443, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/rest_framework/views.py", line 480, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/rest_framework/generics.py", line 201, in get
+    return self.list(request, *args, **kwargs)
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/rest_framework/mixins.py", line 48, in list
+    return Response(serializer.data)
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/rest_framework/serializers.py", line 767, in data
+    ret = super(ListSerializer, self).data
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/rest_framework/serializers.py", line 262, in data
+    self._data = self.to_representation(self.instance)
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/rest_framework/serializers.py", line 685, in to_representation
+    self.child.to_representation(item) for item in iterable
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/rest_framework/serializers.py", line 685, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/rest_framework/serializers.py", line 512, in to_representation
+    fields = self._readable_fields
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/rest_framework/serializers.py", line 378, in _readable_fields
+    field for field in self.fields.values()
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/rest_framework/serializers.py", line 363, in fields
+    for key, value in self.get_fields().items():
+  File "/home/grey/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/rest_framework/serializers.py", line 1004, in get_fields
+    serializer_class=self.__class__.__name__
+AssertionError: Class SpecSimpleSerializer missing "Meta.model" attribute
+INFO 2019-09-17 19:59:35,266 basehttp 124 "GET /meiduo_admin/goods/channels/?page=1&pagesize=10 HTTP/1.1" 200 1923
+ERROR 2019-09-17 19:59:35,266 basehttp 124 "GET /meiduo_admin/goods/specs/simple/ HTTP/1.1" 500 23903
+INFO 2019-09-17 19:59:35,304 basehttp 124 "GET /meiduo_admin/goods/channel_types/ HTTP/1.1" 200 1290
+INFO 2019-09-17 19:59:35,307 basehttp 124 "GET /meiduo_admin/goods/categories/ HTTP/1.1" 200 975
+INFO 2019-09-17 19:59:35,494 basehttp 124 "OPTIONS /meiduo_admin/goods/brands/?page=1&pagesize=10 HTTP/1.1" 200 0
+INFO 2019-09-17 19:59:35,522 basehttp 124 "GET /meiduo_admin/goods/channel_types/ HTTP/1.1" 200 1290
+INFO 2019-09-17 19:59:35,540 basehttp 124 "GET /meiduo_admin/goods/categories/ HTTP/1.1" 200 975
+INFO 2019-09-17 19:59:35,556 basehttp 124 "GET /meiduo_admin/goods/brands/?page=1&pagesize=10 HTTP/1.1" 200 483
+INFO 2019-09-17 19:59:35,827 basehttp 124 "OPTIONS /meiduo_admin/skus/simple/ HTTP/1.1" 200 0
+INFO 2019-09-17 19:59:35,831 basehttp 124 "OPTIONS /meiduo_admin/skus/simple/ HTTP/1.1" 200 0
+INFO 2019-09-17 19:59:35,839 basehttp 124 "OPTIONS /meiduo_admin/skus/images/?page=1&pagesize=10 HTTP/1.1" 200 0
+INFO 2019-09-17 19:59:35,885 basehttp 124 "GET /meiduo_admin/skus/images/?page=1&pagesize=10 HTTP/1.1" 200 1984
+INFO 2019-09-17 19:59:35,887 basehttp 124 "GET /meiduo_admin/skus/simple/ HTTP/1.1" 200 1466
+INFO 2019-09-17 19:59:35,906 basehttp 124 "GET /meiduo_admin/skus/simple/ HTTP/1.1" 200 1466
+INFO 2019-09-17 20:00:28,846 basehttp 124 "OPTIONS /meiduo_admin/orders/?page=1&pagesize=10&keyword= HTTP/1.1" 200 0
+INFO 2019-09-17 20:00:28,894 basehttp 124 "GET /meiduo_admin/orders/?page=1&pagesize=10&keyword= HTTP/1.1" 200 1424
+INFO 2019-09-17 20:00:33,357 basehttp 124 "OPTIONS /meiduo_admin/permission/simple/ HTTP/1.1" 200 0
+INFO 2019-09-17 20:00:33,360 basehttp 124 "OPTIONS /meiduo_admin/permission/groups/simple/ HTTP/1.1" 200 0
+INFO 2019-09-17 20:00:33,368 basehttp 124 "OPTIONS /meiduo_admin/permission/simple/ HTTP/1.1" 200 0
+INFO 2019-09-17 20:00:33,369 basehttp 124 "OPTIONS /meiduo_admin/permission/groups/simple/ HTTP/1.1" 200 0
+INFO 2019-09-17 20:00:33,371 basehttp 124 "OPTIONS /meiduo_admin/permission/admins/?page=1&pagesize=10 HTTP/1.1" 200 0
+INFO 2019-09-17 20:00:33,418 basehttp 124 "GET /meiduo_admin/permission/simple/ HTTP/1.1" 200 6865
+INFO 2019-09-17 20:00:33,491 basehttp 124 "GET /meiduo_admin/permission/groups/simple/ HTTP/1.1" 200 88
+INFO 2019-09-17 20:00:33,493 basehttp 124 "GET /meiduo_admin/permission/admins/?page=1&pagesize=10 HTTP/1.1" 200 397
+INFO 2019-09-17 20:00:33,533 basehttp 124 "GET /meiduo_admin/permission/simple/ HTTP/1.1" 200 6865
+INFO 2019-09-17 20:00:33,553 basehttp 124 "GET /meiduo_admin/permission/groups/simple/ HTTP/1.1" 200 88
+INFO 2019-09-17 20:00:33,953 basehttp 124 "OPTIONS /meiduo_admin/permission/groups/?page=1&pagesize=10 HTTP/1.1" 200 0
+INFO 2019-09-17 20:00:33,973 basehttp 124 "GET /meiduo_admin/permission/simple/ HTTP/1.1" 200 6865
+INFO 2019-09-17 20:00:33,995 basehttp 124 "GET /meiduo_admin/permission/groups/?page=1&pagesize=10 HTTP/1.1" 200 117
+INFO 2019-09-17 20:00:34,018 basehttp 124 "GET /meiduo_admin/permission/simple/ HTTP/1.1" 200 6865
+INFO 2019-09-17 20:00:34,451 basehttp 124 "OPTIONS /meiduo_admin/permission/content_types/ HTTP/1.1" 200 0
+INFO 2019-09-17 20:00:34,454 basehttp 124 "OPTIONS /meiduo_admin/permission/content_types/ HTTP/1.1" 200 0
+INFO 2019-09-17 20:00:34,457 basehttp 124 "OPTIONS /meiduo_admin/permission/perms/?page=1&pagesize=10 HTTP/1.1" 200 0
+WARNING 2019-09-17 20:00:34,474 base 152 Not Found: /meiduo_admin/permission/content_types/
+WARNING 2019-09-17 20:00:34,476 basehttp 124 "GET /meiduo_admin/permission/content_types/ HTTP/1.1" 404 26795
+WARNING 2019-09-17 20:00:34,511 base 152 Not Found: /meiduo_admin/permission/content_types/
+WARNING 2019-09-17 20:00:34,513 base 152 Not Found: /meiduo_admin/permission/perms/
+WARNING 2019-09-17 20:00:34,516 basehttp 124 "GET /meiduo_admin/permission/perms/?page=1&pagesize=10 HTTP/1.1" 404 26794
+WARNING 2019-09-17 20:00:34,516 basehttp 124 "GET /meiduo_admin/permission/content_types/ HTTP/1.1" 404 26795
+INFO 2019-09-17 20:00:34,927 basehttp 124 "GET /meiduo_admin/permission/simple/ HTTP/1.1" 200 6865
+INFO 2019-09-17 20:00:34,935 basehttp 124 "GET /meiduo_admin/permission/groups/simple/ HTTP/1.1" 200 88
+INFO 2019-09-17 20:00:34,961 basehttp 124 "GET /meiduo_admin/permission/admins/?page=1&pagesize=10 HTTP/1.1" 200 397
+INFO 2019-09-17 20:00:34,986 basehttp 124 "GET /meiduo_admin/permission/simple/ HTTP/1.1" 200 6865
+INFO 2019-09-17 20:00:34,998 basehttp 124 "GET /meiduo_admin/permission/groups/simple/ HTTP/1.1" 200 88
+WARNING 2019-09-17 20:00:36,617 base 152 Not Found: /meiduo_admin/permission/content_types/
+WARNING 2019-09-17 20:00:36,625 base 152 Not Found: /meiduo_admin/permission/perms/
+WARNING 2019-09-17 20:00:36,626 basehttp 124 "GET /meiduo_admin/permission/content_types/ HTTP/1.1" 404 26795
+WARNING 2019-09-17 20:00:36,641 base 152 Not Found: /meiduo_admin/permission/content_types/
+WARNING 2019-09-17 20:00:36,642 basehttp 124 "GET /meiduo_admin/permission/content_types/ HTTP/1.1" 404 26795
+WARNING 2019-09-17 20:00:36,646 basehttp 124 "GET /meiduo_admin/permission/perms/?page=1&pagesize=10 HTTP/1.1" 404 26794
+INFO 2019-09-17 20:00:37,162 basehttp 124 "GET /meiduo_admin/permission/groups/?page=1&pagesize=10 HTTP/1.1" 200 117
+INFO 2019-09-17 20:00:37,176 basehttp 124 "GET /meiduo_admin/permission/simple/ HTTP/1.1" 200 6865
+INFO 2019-09-17 20:00:37,210 basehttp 124 "GET /meiduo_admin/permission/simple/ HTTP/1.1" 200 6865
+INFO 2019-09-17 20:01:11,233 basehttp 124 "GET /meiduo_admin/statistical/total_count/ HTTP/1.1" 200 11
+INFO 2019-09-17 20:01:11,263 basehttp 124 "GET /meiduo_admin/statistical/day_increment/ HTTP/1.1" 200 11
+INFO 2019-09-17 20:01:11,287 basehttp 124 "GET /meiduo_admin/statistical/day_active/ HTTP/1.1" 200 11
+INFO 2019-09-17 20:01:11,333 basehttp 124 "GET /meiduo_admin/statistical/day_orders/ HTTP/1.1" 200 13
+INFO 2019-09-17 20:01:11,383 basehttp 124 "GET /meiduo_admin/statistical/goods_day_views/ HTTP/1.1" 200 2
+INFO 2019-09-17 20:01:11,387 basehttp 124 "GET /meiduo_admin/statistical/day_active/ HTTP/1.1" 200 11
+INFO 2019-09-17 20:01:11,400 basehttp 124 "GET /meiduo_admin/statistical/day_orders/ HTTP/1.1" 200 13
+INFO 2019-09-17 20:01:11,417 basehttp 124 "GET /meiduo_admin/statistical/month_increment/ HTTP/1.1" 200 961
